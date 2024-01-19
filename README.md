@@ -29,17 +29,13 @@ Welcome to the PIT! This document serves as your guide to participating in our t
 - Create an issue on this repository with a link to your project.
 - Ensure your submission adheres to our `/submission-guidelines`.
 
-### Deadline
-- Be mindful of the submission deadline for each quest.
-- Late submissions may not be eligible for review or rewards.
-
 ## Judging
 
 ### Criteria
-All submissions will be rigorously reviewed by the Polymer Labs team based on the following criteria:
+All submissions will be rigorously reviewed by the Polymer Labs team on a rolling basis based on the following criteria:
 - **Project Completeness:** How fully developed and functional is your project?
 - **Code Quality:** Is the code efficient, organized, and well-documented?
-- **User Interface (UI):** How intuitive, accessible, and aesthetically pleasing is the UI?
+- **UI/UX:** How intuitive, accessible, and aesthetically pleasing is the UI/UX?
 - **Community Value:** What value does your project bring to the Polymer community?
 - **Wow Factor:** Does your project have a unique, innovative, or particularly impressive aspect?
 
