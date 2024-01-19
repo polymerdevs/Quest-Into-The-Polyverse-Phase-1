@@ -1,6 +1,6 @@
-# Polymer Incentivized Testnet
+# Phase 1 Guideliens
 
-Welcome to the PIT! This document serves as your guide to participating in our testnet, where developers can build, collaborate, and innovate in the Polymer ecosystem.
+Welcome to Phase 1 of the PIT! This document serves as your guide to participating in our testnet, where developers can build, collaborate, and innovate in the Polymer ecosystem.
 
 ## Find a Quest
 
