@@ -9,9 +9,10 @@ These guidelines are designed to ensure that your submission for the Polymer Inc
 - **Team Name:** Clearly state your team's name.
 - **Quest Name:** Specify the quest you are addressing.
 - **Project Description:** Provide a brief, clear summary of your project, its purpose, and key functionalities.
+- **Code Repository:** Link to the public repository containing your project's code.
+
 
 ### Technical Documentation
-- **Code Repository:** Link to the public repository containing your project's code.
 - **Installation Guide:** Step-by-step instructions for setting up and running your project.
 - **Usage Instructions:** Detailed guidance on how to use the application, including any necessary commands or scripts.
 
@@ -22,4 +23,4 @@ These guidelines are designed to ensure that your submission for the Polymer Inc
 ### Demonstration and Interaction Evidence
 - **Video Link:** Include a link to a video demonstration of your project in action.
 - **Screenshots:** Provide screenshots showing key features or steps in using your application.
-- Document evidence of your interaction with the Polymer network or relevant components.
+- Documented evidence of your interaction with Polymer.
