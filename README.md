@@ -1,6 +1,6 @@
 # Polymer Incentivized Testnet
 
-Welcome to the Polymer Incentivized Testnet! This document serves as your comprehensive guide to participating in our testnet, where developers can build, collaborate, and innovate in the Polymer ecosystem.
+Welcome to the PIT! This document serves as your guide to participating in our testnet, where developers can build, collaborate, and innovate in the Polymer ecosystem.
 
 ## Find a Quest
 
