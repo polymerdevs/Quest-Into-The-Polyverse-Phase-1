@@ -24,3 +24,6 @@ These guidelines are designed to ensure that your submission for the Polymer Inc
 - **Video Link:** Include a link to a video demonstration of your project in action.
 - **Screenshots:** Provide screenshots showing key features or steps in using your application.
 - Documented evidence of your interaction with Polymer.
+
+### How to Submit
+- **Fill out Submission Form:** Make sure to include a link to your submission as well as any relevant wallet addresses used in your project
