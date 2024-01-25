@@ -26,4 +26,4 @@ These guidelines are designed to ensure that your submission for the Polymer Inc
 - Documented evidence of your interaction with Polymer.
 
 ### How to Submit
-- **Fill out Submission Form:** Make sure to include a link to your submission as well as any relevant wallet addresses used in your project
+- **Add Issue to Phase 1 Repo:** Make sure to include: your team name, a link to your submission, as well as any relevant wallet addresses used in your project
