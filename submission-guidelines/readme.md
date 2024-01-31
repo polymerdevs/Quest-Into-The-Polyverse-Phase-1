@@ -23,7 +23,7 @@ These guidelines are designed to ensure that your submission for the Polymer Inc
 ### Demonstration and Interaction Evidence
 - **Video Link:** Include a link to a video demonstration of your project in action.
 - **Screenshots:** Provide screenshots showing key features or steps in using your application.
-- Documented evidence of your interaction with Polymer.
+- **Evidence:** Documented evidence of your interaction with Polymer. (eg. transactions, contract addresses)
 
 ### How to Submit
 - **Add Issue to Phase 1 Repo:** Make sure to include: your team name, a link to your submission, as well as any relevant wallet addresses used in your project
