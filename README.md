@@ -53,5 +53,5 @@ To support your journey in the Polymer Incentivized Testnet, make use of the fol
 - **Workshop(s):** Engage with practical sessions like the 'x-ballot-nft' workshop.
 - **Testnet Newsletter:** Stay updated with the latest news and updates.
 - **Developer Hub Docs:** Access comprehensive documentation for technical guidance.
-- **Developer Forum:** Join discussions, ask questions, and share insights with fellow developers.
+- ** QUESTION MARK Developer Forum:** Join discussions, ask questions, and share insights with fellow developers. QUESTION MARK
 - **Extra Resources:** Explore additional materials like ICS repo, IBC info, Polymer blog, and more for in-depth understanding.
