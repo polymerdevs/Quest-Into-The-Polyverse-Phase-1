@@ -31,13 +31,15 @@ Welcome to Phase 1 of the PIT! This document serves as your guide to participati
 
 ## Judging
 
-### Criteria
+### Criteria & Rubric
 All submissions will be rigorously reviewed by the Polymer Labs team on a rolling basis based on the following criteria:
 - **Project Completeness:** How fully developed and functional is your project?
 - **Code Quality:** Is the code efficient, organized, and well-documented?
 - **UI/UX:** How intuitive, accessible, and aesthetically pleasing is the UI/UX?
 - **Community Value:** What value does your project bring to the Polymer community?
 - **Wow Factor:** Does your project have a unique, innovative, or particularly impressive aspect?
+
+- PASTE FINAL RUBRIC HERE
 
 ### Feedback
 - Constructive feedback will be provided for all submissions.
