@@ -49,9 +49,7 @@ All submissions will be rigorously reviewed by the Polymer Labs team on a rollin
 
 To support your journey in the Polymer Incentivized Testnet, make use of the following resources:
 
-- **Kick-off Event / Recording:** Start here for an overview of the testnet.
-- **Workshop(s):** Engage with practical sessions like the 'x-ballot-nft' workshop.
-- **Testnet Newsletter:** Stay updated with the latest news and updates.
-- **Developer Hub Docs:** Access comprehensive documentation for technical guidance.
-- ** QUESTION MARK Developer Forum:** Join discussions, ask questions, and share insights with fellow developers. QUESTION MARK
+- 📰 **Testnet Newsletter:** Stay updated with the latest news and updates 📰
+- 🏗️ **Developer Hub Docs:** Access comprehensive documentation for technical guidance 🏗️
+- ❓ **Developer Forum:** Join discussions, ask questions, and share insights with fellow developers ❓
 - **Extra Resources:** Explore additional materials like ICS repo, IBC info, Polymer blog, and more for in-depth understanding.
