@@ -19,7 +19,7 @@ These guidelines are designed to ensure that your submission for the Polymer Inc
 
 ### Demonstration and Proof of Interaction
 - **Screenshots/Video:** Provide screenshots or a link to a video demonstration showing key features or steps in using your application.
-- **Evidence:** Documented evidence of your cross chain interaction with Polymer. This can include contract addresses, links to transactions and screenshots of the IBC exploter. 
+- **Evidence:** Documented evidence of your cross chain interaction with Polymer. This can include contract addresses, links to transactions and screenshots of the IBC explorer. 
 
 ### How to Submit
 - **Add Issue to Phase 1 Repo:** Make sure to include: your project name, a link to your submission, as well as any relevant wallet addresses used in your project
