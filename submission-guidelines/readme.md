@@ -17,7 +17,7 @@ These guidelines are designed to ensure that your submission for the Polymer Inc
 - **System Architecture:**  Diagrams or descriptions outlining the architecture of your solution.
 - **Design Rationale:** Explain the key design decisions and how they contribute to the objectives of the quest.
 
-### Demonstration and Interaction Evidence
+### Demonstration and Proof of Interaction
 - **Screenshots/Video:** Provide screenshots or a link to a video demonstration showing key features or steps in using your application.
 - **Evidence:** Documented evidence of your cross chain interaction with Polymer. This can include contract addresses, links to transactions and screenshots of the IBC exploter. 
 
