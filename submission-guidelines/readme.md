@@ -6,24 +6,20 @@ These guidelines are designed to ensure that your submission for the Polymer Inc
 ## Submission Contents
 
 ### Project Information
-- **Team Name:** Clearly state your team's name.
-- **Quest Name:** Specify the quest you are addressing.
-- **Project Description:** Provide a brief, clear summary of your project, its purpose, and key functionalities.
+- **Name:** Clearly state your team's name.
+- **Quest:** Specify the quest(s) you are embarking on.
+- **Project Description:** A brief summary of your project, its purpose, and key functionalities.
 - **Code Repository:** Link to the public repository containing your project's code.
 
 
 ### Technical Documentation
-- **Installation Guide:** Step-by-step instructions for setting up and running your project.
-- **Usage Instructions:** Detailed guidance on how to use the application, including any necessary commands or scripts.
-
-### Design and Architecture
-- **System Architecture:** Include diagrams or descriptions outlining the architecture of your solution.
+- **Installation and Usage Guide:** Step-by-step instructions for setting up and running your project. Please include any necessary commands or scripts.
+- **System Architecture:**  Diagrams or descriptions outlining the architecture of your solution.
 - **Design Rationale:** Explain the key design decisions and how they contribute to the objectives of the quest.
 
 ### Demonstration and Interaction Evidence
-- **Video Link:** Include a link to a video demonstration of your project in action.
-- **Screenshots:** Provide screenshots showing key features or steps in using your application.
-- **Evidence:** Documented evidence of your interaction with Polymer. (eg. transactions, contract addresses)
+- **Screenshots/Video:** Provide screenshots or a link to a video demonstration showing key features or steps in using your application.
+- **Evidence:** Documented evidence of your cross chain interaction with Polymer. This can include contract addresses, links to transactions and screenshots of the IBC exploter. 
 
 ### How to Submit
-- **Add Issue to Phase 1 Repo:** Make sure to include: your team name, a link to your submission, as well as any relevant wallet addresses used in your project
+- **Add Issue to Phase 1 Repo:** Make sure to include: your project name, a link to your submission, as well as any relevant wallet addresses used in your project
