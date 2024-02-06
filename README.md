@@ -57,6 +57,6 @@ All submissions will be rigorously reviewed by the Polymer Labs team on a rollin
 To support your journey in the Polymer Incentivized Testnet, make use of the following resources:
 
 - 📰 **Testnet Newsletter:** Stay updated with the latest news and updates 📰
-- 🏗️ **Developer Hub Docs:** Access comprehensive documentation for technical guidance 🏗️
-- ❓ **Developer Forum:** Join discussions, ask questions, and share insights with fellow developers ❓
-- **Extra Resources:** Explore additional materials like ICS repo, IBC info, Polymer blog, and more for in-depth understanding.
+- 🏗️ **[Developer Hub Docs:](https://docs.polymerlabs.org/)** Access comprehensive documentation for technical guidance 🏗️
+- ❓ **[Developer Forum:](https://forum.polymerlabs.org/)** Join discussions, ask questions, and share insights with fellow developers ❓
+- 📢 **[Discord Community:](https://discord.gg/qexCh3Ee4E)** Join our discord and connect with other Polymer Pals
