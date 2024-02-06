@@ -8,7 +8,7 @@ These guidelines are designed to ensure that your submission for the Polymer Inc
 ### Project Information
 - **Name:** Clearly state your team's name.
 - **Quest:** Specify the quest(s) you are embarking on.
-- **Project Description:** A brief summary of your project, its purpose, and key functionalities.
+- **Description:** A brief summary of your project, its purpose, and key functionalities.
 - **Code Repository:** Link to the public repository containing your project's code.
 
 
