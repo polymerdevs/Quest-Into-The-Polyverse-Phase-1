@@ -39,7 +39,14 @@ All submissions will be rigorously reviewed by the Polymer Labs team on a rollin
 - **Community Value:** What value does your project bring to the Polymer community?
 - **Wow Factor:** Does your project have a unique, innovative, or particularly impressive aspect?
 
-- PASTE FINAL RUBRIC HERE
+| Criteria   & Points               | 10 | 5 | 0 |
+|---------------------------|---|---|---|
+| **Project Completeness**  |  Code implements sufficient features to provide a functional MVP. The code is open source and properly licensed. Licensing is permissive, how to contribute clear and code open making contribution easy. Further development path is clear. (Ability Onboard to retail) |  Code is a viable MVP with a clear development path but does not implement all MVP features. Licensing is clear. | Implementation is incomplete and lacks a clear development path to provide an MVP. Licensing isn’t clear or source code is closed preventing community development to MVP.  |
+| **Code Quality**          |  Programming language and code dependencies utilize current versions. Code uses language frameworks, common conventions and design patterns. Reused code libraries are from sources with active maintainers and user communities. Error handling and consideration of fallbacks. Code is commented and project includes tests and CI showing a commitment to release and maintenance of quality software. |  Programming language and code dependencies utilise current versions. Code is listed and programming language and code dependencies utilise current versions and releases. Errors handling is in place. |  Code doesn’t make use of language conventions and is inflexible or hard to maintain. Reused libraries lack active maintenance or user community. Project demonstrates significant reuse of existing code (e.g. a project fork) without code additions that represent a significant contribution to the code or development effort. |
+| **UI**                    | CLI user prompts and -help is clear and give intuitive guidance on usage to the first-time user. If a GUI is provided, design style is concise without unnecessary verbosity.  | UI is complete and intuitive to use.  |  UI is incomplete, prompts non-intuitive and hard to follow. |
+| **Wow Factor**            | Project adds new feature coverage to existing or new tooling. Project can be reused by other projects. Developer experience for building with Polymer is significantly enhanced.  | Project extends or builds on the feature coverage provided by existing tooling. Project contributes to improving developer experience of Polymer.  | Project adds no or little new functionality to that provided by existing tooling or a reused some other tool codebase.  |
+| **Community Value**       | Project has taken additional effort to contribute to the community with documentation, explainer videos and community participation.  |  Project is well documented, easy to follow and has a video demonstration. |  Documentation is incomplete. |
+
 
 ### Feedback
 - Constructive feedback will be provided for all submissions.
