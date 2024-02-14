@@ -39,6 +39,7 @@ Provide a brief description of your project. What problem does it solve? What te
 
 Below is a list of teams that have registered for the hackathon. If you're looking to join a team, feel free to reach out to them using their provided contact information.
 
+---
 ### Team Name: Example Team
 
 ### Project: Project Awesome
@@ -59,3 +60,4 @@ Our project aims to solve [problem] by building [solution]. We plan to use [exis
 ### How to Reach Us:
 
 - Discord - @Usertag
+---
