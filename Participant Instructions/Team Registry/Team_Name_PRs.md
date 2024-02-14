@@ -11,6 +11,7 @@
 - [Yes/No] If yes, specify roles/positions needed
 
 #### Project Description:
-Provide a brief description of your project. What problem does it solve? 
+Our project aims to solve [problem] by building [solution]. We plan to use [frameworks/standards/libs].
+
 #### How to Reach Us:
-- [Discord/Slack/Email] - [Contact Information]
+- [Discord/Telegram] - [Contact Information]
