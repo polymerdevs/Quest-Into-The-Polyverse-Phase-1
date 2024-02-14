@@ -81,7 +81,7 @@ NOTE: Solutions that are effective for broader community engagement will be scor
 ---
 Experimental ideas: Having fun with Acknowledgements by building complex onRecvPacket and onAcknowledgment behaviors.
    
-1. An ERC404 and build a cross-chain NFT minting game
+1. Implement ERC404 and build a cross-chain NFT minting game
    1. 10,000 ERC-20 tokens & same number of associated “Replicant” NFTs.
    2. If someone buys one full token on a DEX on Optimism testnet, one replicant NFT will be minted on Base.
    3. If the token is sold, the connected NFT must be burned.
