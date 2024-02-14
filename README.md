@@ -11,7 +11,7 @@ The PIT presents you with Phase 1 and the initial set of 3 quests. Each quest wi
 2. Contribute to IBC Solidity standards
 3. Help build Polymer developer tooling 
 
-Dive deeper into the quests in the `\quests` directory
+Dive deeper into each of these in the [Quest](https://github.com/polymerdevs/PIT-Phase-1/tree/main/quests) directory.
 
 NOTE: Solutions that are effective for broader community engagement will be scored highly.
 
