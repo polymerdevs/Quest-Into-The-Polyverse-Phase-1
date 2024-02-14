@@ -44,7 +44,7 @@ To maintain engagement and a competitive spirit among teams and developers, we w
 PIT offers developers opportunities for engagement and potentially influence the future direction of Polymer's interop solutions. Thus, performance on the leaderboard enables participants to ascend through the ranks, towards potential partnership, gaining exclusive access to Polymer resources and potential developer allocation in the future. 
 
 
-## Developer Resources
+## Resources
 
 To support your journey in the Polymer Incentivized Testnet, make use of the following resources:
 
