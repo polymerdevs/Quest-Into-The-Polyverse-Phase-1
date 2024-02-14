@@ -15,29 +15,30 @@ Dive deeper into the quests in the `\quests` directory
 
 NOTE: Solutions that are effective for broader community engagement will be scored highly.
 
-WIP
-
 ## Participation Instructions 
 
-### Starting Your Project
-- Find your team 
-- Build your project in any repository of your choice.
-- Follow the technical specifications and requirements outlined for each quest.
+### Start your prject 
+- **Team Formation:** Whether you're looking to collaborate or prefer to tackle the challenge solo, find the right fit. Explore the [Team Registry](https://github.com/polymerdevs/PIT-Phase-1/blob/main/Participant%20Instructions/Teams.md#team-registry) to connect with potential teammates or to list your team if you're seeking additional members.
+- **Team Registration:** Once your team is formed, make sure to register by providing all relevant details about your project. This includes the challenge you've chosen to address or any innovative ideas you plan to explore. Registration ensures you're officially in the running and helps us support you throughout the hackathon.
+- **Development Resources:** Jumpstart your project with our comprehensive [developer documentation](https://docs.polymerlabs.org/), especially if you plan to interact with testnet contracts. These resources are designed to guide you through the initial setup and development stages. 
+- **Community and Support:** For any development-related queries, head over to our [developer forum](https://forum.polymerlabs.org/). Our product team is available around the clock to assist you, ensuring help is always at hand when you need it.
+
+**Note:** Regular updates and check-ins can enhance your hackathon experience. Keep an eye on [announcements](https://twitter.com/Polymer_Labs) and utilize the forums for collaboration and support.
 
 ### Submission format 
 
 ### Judging criteria 
 
 
-### Feedback
-- Constructive feedback will be provided for all submissions.
-- Use this feedback for future improvements and learning.
+### We Value Your Feedback
+At Polymer, we are committed to continuous improvement and innovation, and your feedback plays a crucial role in this process. Whether it's about your experience with the hackathon, our developer tools, or the support you received, we're eager to hear what you think and how we can make things better.
 
 ## Developer Resources
 
 To support your journey in the Polymer Incentivized Testnet, make use of the following resources:
 
-- 📰 **Testnet Newsletter:** Stay updated with the latest news and updates 📰
-- 🏗️ **[Developer Hub Docs:](https://docs.polymerlabs.org/)** Access comprehensive documentation for technical guidance 🏗️
+- 🏗️ **[Developer Docs:](https://docs.polymerlabs.org/)** Access comprehensive documentation for technical guidance 🏗️
 - ❓ **[Developer Forum:](https://forum.polymerlabs.org/)** Join discussions, ask questions, and share insights with fellow developers ❓
 - 📢 **[Discord Community:](https://discord.gg/qexCh3Ee4E)** Join our discord and connect with other Polymer Pals
+
+Feel free to reach out to our product team in discord under the tag @Product
