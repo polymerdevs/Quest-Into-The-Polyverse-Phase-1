@@ -28,7 +28,7 @@ NOTE: Solutions that are effective for broader community engagement will be scor
 ### Submission format 
 
 ### Judging criteria 
-The PIT consists of a predefined scoring rubric to provide transparency and fairness in evaluating contributions across a spectrum of activities, from dApp development to protocol implementation and beyond. This rubric not only sets clear expectations but also guides participants towards contributing high-quality work that advances the Polymer ecosystem.
+The PIT consists of a predefined [scoring rubric](https://github.com/polymerdevs/PIT-Phase-1/blob/main/Participant%20Instructions/Judging%20Criteria.md#scoring-rubric) to provide transparency and fairness in evaluating contributions across a spectrum of activities, from dApp development to protocol implementation and beyond. This rubric not only sets clear expectations but also guides participants towards contributing high-quality work that advances the Polymer ecosystem.
 
 To maintain engagement and a competitive spirit among teams and developers, we will implement a leaderboard that tracks the points scored. This will help Polymer facilitate rewards, promoting healthy competition and community engagement, encouraging participants to put their best foot forward.
 
