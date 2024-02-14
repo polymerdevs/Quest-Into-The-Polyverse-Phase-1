@@ -25,7 +25,7 @@ Your **`README.md`** file is the first thing evaluators will see, so make it cou
 - **Future Improvements:** Share any plans for future enhancements or iterations of your project.
 - **License:** Specify the license under which your project is released.
 
-### **Step 5: Proof of Testnet Interactions (Must)**
+### **Step 4: Proof of Testnet Interactions (Must)**
 
 It is mandatory for projects to include documented proof of interactions with a testnet, such as:
 
@@ -33,7 +33,7 @@ It is mandatory for projects to include documented proof of interactions with a 
 - Smart contract addresses of your contract (or Port addresses)
 - Screenshots or videos of the transactions.
 
-### **Step 4: Include a Demo Video (Optional)**
+### **Step 5: Include a Demo Video (Optional)**
 
 While not mandatory, a demo video can significantly enhance your submission by showcasing your project's functionality and features. Keep it concise (3-5 minutes) and focused on what makes your project stand out.
 
