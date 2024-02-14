@@ -13,6 +13,8 @@ The PIT presents you with Phase 1 and the initial set of 3 quests. Each quest wi
 
 Dive deeper into the quests in the `\quests` directory
 
+NOTE: Solutions that are effective for broader community engagement will be scored highly.
+
 ### Starting Your Project
 - Build your project in any repository of your choice.
 - Follow the technical specifications and requirements outlined for each quest.
