@@ -4,19 +4,14 @@ The PIT embodies Polymer’s commitment to innovation, security, and scalability
 
 # Phase 1 Guidelines
 
-Welcome to Phase 1 of the PIT! This document serves as your guide to participating in our testnet, where developers can build, collaborate, and innovate in the Polymer ecosystem.
+The PIT presents you with Phase 1 and the initial set of 3 quests. Each quest will provide guidance for some exciting use-cases for the Polymer community. However, these quests truly are meant for guidance and are optional, Polymer welcomes innovation! If you have an exciting use-case, propose it in our forum, team up with fellow devs and get building.
 
-## Find a Quest
+### Quests Overview 
+1. Create a dApp using universal/custom channels
+2. Contribute to IBC Solidity standards
+3. Help build to Polymer developer tooling 
 
-### Overview
-- Explore the `\quests` directory for a detailed list of quests.
-- Each quest comes with specific objectives, rewards, and submission guidelines.
-
-### Choosing a Quest
-- Select a quest that aligns with your skills and interests.
-- Check the difficulty level and prerequisites before starting.
-
-## Build
+Dive deeper into the quests in the `\quests` directory
 
 ### Starting Your Project
 - Build your project in any repository of your choice.
