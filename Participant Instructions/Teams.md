@@ -50,7 +50,7 @@ See the team registry directory for a list of teams that have registered for the
 
 ### Looking for Members?:
 
-- Yes, looking for a Front-end Developer and a Data Scientist
+- Yes, looking for a Front-end Developer and a Solidity developer
 
 ### Project Description:
 
