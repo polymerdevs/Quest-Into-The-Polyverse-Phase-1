@@ -18,8 +18,8 @@ NOTE: Solutions that are effective for broader community engagement will be scor
 ## Participation Instructions 
 
 ### Start your prject 
-- **Team Formation:** Whether you're looking to collaborate or prefer to tackle the challenge solo, find the right fit. Explore the [Team Registry](https://github.com/polymerdevs/PIT-Phase-1/blob/main/Participant%20Instructions/Teams.md#team-registry) to connect with potential teammates or to list your team if you're seeking additional members.
-- **Team Registration:** Once your team is formed, make sure to register by providing all relevant details about your project. This includes the challenge you've chosen to address or any innovative ideas you plan to explore. Registration ensures you're officially in the running and helps us support you throughout the hackathon.
+- **Team Formation:** Whether you're looking to collaborate or prefer to tackle the challenge solo, find the right fit. Explore the [Team Registry] to connect with potential teammates or to list your team if you're seeking additional members.
+- **Team Registration:** Once your team is formed, make sure to [register teams](https://github.com/polymerdevs/PIT-Phase-1/blob/main/Participant%20Instructions/Teams.md#team-registry) by providing all relevant details about your project. This includes the challenge you've chosen to address or any innovative ideas you plan to explore. Registration ensures you're officially in the running and helps us support you throughout the hackathon.
 - **Development Resources:** Jumpstart your project with our comprehensive [developer documentation](https://docs.polymerlabs.org/), especially if you plan to interact with testnet contracts. These resources are designed to guide you through the initial setup and development stages. 
 - **Community and Support:** For any development-related queries, head over to our [developer forum](https://forum.polymerlabs.org/). Our product team is available around the clock to assist you, ensuring help is always at hand when you need it.
 
