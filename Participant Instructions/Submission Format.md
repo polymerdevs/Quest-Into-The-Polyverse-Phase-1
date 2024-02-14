@@ -17,9 +17,9 @@ Your **`README.md`** file is the first thing evaluators will see, so make it cou
 
 - **Project Title:** A clear and concise title for your project.
 - **Team Members:** List of team members and their roles/contributions.
-- **Project Overview:** A brief description of your project, including the problem it solves or the value it adds.
+- **Project Overview:** A brief description of your project, including the problem it solves.
 - **Run-book:** Step-by-step guide to test your project, including any dependencies.
-- **Technologies Used:** List of technologies, frameworks, libraries, and tools used in your project.
+- **Resources Used:** List of frameworks, libraries, and tools used in your project.
 - **Challenges Faced:** Briefly discuss any significant challenges you encountered and how you overcame them.
 - **What We Learned:** Highlight key learnings your team took away from this project.
 - **Future Improvements:** Share any plans for future enhancements or iterations of your project.
