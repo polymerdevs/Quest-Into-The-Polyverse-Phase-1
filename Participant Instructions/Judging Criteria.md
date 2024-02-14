@@ -1,8 +1,4 @@
-The PIT consists of a predefined scoring rubric to provide transparency and fairness in evaluating contributions across a spectrum of activities, from dApp development to protocol implementation and beyond. This rubric not only sets clear expectations but also guides participants towards contributing high-quality work that advances the Polymer ecosystem.
-
-To maintain engagement and a competitive spirit among teams and developers, we will implement a leaderboard that tracks the points scored. This will help Polymer facilitate rewards, promoting healthy competition and community engagement, encouraging participants to put their best foot forward.
-
-Please note that there might be a significant delay between the submission deadline and the evaluation of projects. Therefore, the leaderboard will remain hidden (in stealth mode) until its official release.
+Welcome to the PIT Judging Criteria. This guide outlines the key factors that will be considered when evaluating submissions. Our goal is to ensure a fair, transparent, and comprehensive assessment of all projects.
 
 ## Scoring Rubric
 
@@ -13,3 +9,9 @@ Please note that there might be a significant delay between the submission deadl
 |UI|CLI user prompts and -help is clear and give intuitive guidance on usage to the first-time user. If a GUI is provided, design style is concise without unnecessary verbosity.|UI is complete and intuitive to use. Basic help documentation is comprehensive, providing clear instructions on using the CLI, but may lack examples or detailed descriptions for more complex commands.|UI is incomplete, prompts non-intuitive and hard to follow. Commands and options are limited, and there is little to no guidance or help documentation available for users, making it challenging to use without prior knowledge.|
 |Community value and documentation|The project further demonstrates exceptional community engagement, with regular updates, activity in discussion forums, community events, and offer a clear, welcoming space for other contributions. Explainer video to help community get up to speed with implementation. |The project boasts comprehensive documentation, including detailed guides, tutorials, and examples that cater to various user levels.|The project has minimal documentation and community engagement. There's little evidence of effort to involve the community.|
 |Wow factor|The project significantly enhances the developer experience with innovative features and tooling. It demonstrates high potential for reusability and integration into other projects. |Project extends or builds on the feature coverage provided by existing tooling. Project contributes to improving developer experience.|Project adds no or little new functionality to that provided by existing tooling or a reused some other tool codebase.|
+
+Please note that there might be a significant delay between the submission deadline and the evaluation of projects. Therefore, the leaderboard will remain hidden (in stealth mode) until its official release.
+
+## Questions
+
+If you have any questions about the judging criteria or need further clarification, feel free to reachout to us.
