@@ -8,7 +8,7 @@ To register your team, please follow these steps:
 
 1. **Fork the Repository:** If you haven't already, fork the hackathon's repository to your GitHub account.
 2. **Add Your Team:** Edit this `TEAMS.md` file in your forked repository to include your team's information in the format provided below.
-3. **Submit a Pull Request (PR):** Once you've added your team's information, submit a PR to the original hackathon repository. The PR should only modify the `TEAMS.md` file.
+3. **Submit a Pull Request (PR):** Once you've added your team's information, submit a PR to add your `[Your TEAM NAME.md` file in the Team Registry directory.
 
 ### Team Submission Template
 
@@ -37,9 +37,8 @@ Provide a brief description of your project. What problem does it solve? What te
 
 ## Registered Teams
 
-Below is a list of teams that have registered for the hackathon. If you're looking to join a team, feel free to reach out to them using their provided contact information.
+See the team registry directory for a list of teams that have registered for the hackathon. If you're looking to join a team, feel free to reach out to them using their provided contact information.
 
----
 ### Team Name: Example Team
 
 ### Project: Project Awesome
@@ -60,4 +59,3 @@ Our project aims to solve [problem] by building [solution]. We plan to use [exis
 ### How to Reach Us:
 
 - Discord - @Usertag
----
