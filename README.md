@@ -34,8 +34,6 @@ To maintain engagement and a competitive spirit among teams and developers, we w
 
 ## Developer Incentives
 
-### We Value Your Feedback
-At Polymer, we are committed to continuous improvement and innovation, and your feedback plays a crucial role in this process. Whether it's about your experience with the hackathon, our developer tools, or the support you received, we're eager to hear what you think and how we can make things better.
 
 ## Developer Resources
 
@@ -46,3 +44,6 @@ To support your journey in the Polymer Incentivized Testnet, make use of the fol
 - 📢 **[Discord Community:](https://discord.gg/qexCh3Ee4E)** Join our discord and connect with other Polymer Pals
 
 Feel free to reach out to our product team in discord under the tag @Product
+
+### We Value Your Feedback
+At Polymer, we are committed to continuous improvement and innovation, and your feedback plays a crucial role in this process. Whether it's about your experience with the hackathon, our developer tools, or the support you received, we're eager to hear what you think and how we can make things better.
