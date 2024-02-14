@@ -39,23 +39,3 @@ Provide a brief description of your project. What problem does it solve? What fr
 
 See the [Team Registry](https://github.com/polymerdevs/PIT-Phase-1/tree/main/Participant%20Instructions/Team%20Registry) directory for a list of teams that have registered for the hackathon. If you're looking to join a team, feel free to reach out to them using their provided contact information.
 
-### Team Name: Example Team
-
-### Project: Project Awesome
-
-### Team Members:
-
-- [@exampleUser1](https://github.com/exampleUser1) - Developer
-- [@exampleUser2](https://github.com/exampleUser2) - Designer
-
-### Looking for Members?:
-
-- Yes, looking for a Front-end Developer and a Solidity developer
-
-### Project Description:
-
-Our project aims to solve [problem] by building [solution]. We plan to use [exisiting repos].
-
-### How to Reach Us:
-
-- Discord - @Usertag
