@@ -26,7 +26,14 @@ NOTE: Solutions that are effective for broader community engagement will be scor
 **Note:** Regular updates and check-ins can enhance your hackathon experience. Keep an eye on [announcements](https://twitter.com/Polymer_Labs) and utilize the forums for collaboration and support.
 
 ### Submission format 
-TO DO
+To ensure a smooth and fair evaluation process, all hackathon participants are required to adhere to the following submission criteria:
+
+1. **Project Repository:** Submit your project as a public GitHub repository containing all source code, assets, and necessary documentation.
+2. **Comprehensive README:** Your repository must include a detailed **`README.md`** file covering the project overview, installation and usage instructions, technologies used, and team member contributions.
+3. **Testnet Interactions (Must):** Provide documented proof of testnet interactions, including transaction hashes, smart contract addresses (or Port).
+4. **Demo Video (Optional):** Enhance your submission with a short demo video (3-5 minutes) showcasing your project's key features and functionality.
+
+Submissions will be evaluated based on innovation, technical complexity, impact, design, completeness, and their ability to facilitate community engagement. Please refer to the detailed [Submission Format](https://github.com/polymerdevs/PIT-Phase-1/blob/main/Participant%20Instructions/Submission%20Format.md) for comprehensive guidelines.
 
 ### Judging criteria 
 The PIT consists of a predefined [scoring rubric](https://github.com/polymerdevs/PIT-Phase-1/blob/main/Participant%20Instructions/Judging%20Criteria.md#scoring-rubric) to provide transparency and fairness in evaluating contributions across a spectrum of activities, from dApp development to protocol implementation and beyond. This rubric not only sets clear expectations but also guides participants towards contributing high-quality work that advances the Polymer ecosystem.
@@ -34,7 +41,7 @@ The PIT consists of a predefined [scoring rubric](https://github.com/polymerdevs
 To maintain engagement and a competitive spirit among teams and developers, we will implement a leaderboard that tracks the points scored. This will help Polymer facilitate rewards, promoting healthy competition and community engagement, encouraging participants to put their best foot forward.
 
 ## Developer Incentives
-TO DO
+PIT offers developers opportunities for engagement and potentially influence the future direction of Polymer's interop solutions. Thus, performance on the leaderboard enables participants to ascend through the ranks, towards potential partnership, gaining exclusive access to Polymer resources and potential developer allocation in the future. 
 
 
 ## Developer Resources
