@@ -37,7 +37,7 @@ Provide a brief description of your project. What problem does it solve? What fr
 
 ## Registered Teams
 
-See the team registry directory for a list of teams that have registered for the hackathon. If you're looking to join a team, feel free to reach out to them using their provided contact information.
+See the [Team Registry](https://github.com/polymerdevs/PIT-Phase-1/tree/main/Participant%20Instructions/Team%20Registry) directory for a list of teams that have registered for the hackathon. If you're looking to join a team, feel free to reach out to them using their provided contact information.
 
 ### Team Name: Example Team
 
