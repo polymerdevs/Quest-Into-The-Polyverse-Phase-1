@@ -13,7 +13,7 @@ Note: Research paper/proposal also counts as documentation in the rubric.
 
 | Name  | Standard  | References from EVM |
 | --- | --- | --- |
-| Fungible token transfer | https://github.com/cosmos/ibc/tree/main/spec/app/ics-020-fungible-token-transfer | https://github.com/rhlsthrm/awesome-xerc20?tab=readme-ov-file, https://docs.layerzero.network/contracts/oft |
-| Interchain accounts  | https://github.com/cosmos/ibc/tree/main/spec/app/ics-027-interchain-accounts | https://docs.alchemy.com/docs/create2-an-alternative-to-deriving-contract-addresses  |
-| Interchain Queries  | https://github.com/cosmos/ibc/tree/main/spec/app/ics-031-crosschain-queries |  |
+| Fungible token transfer | [ICS20](https://github.com/cosmos/ibc/tree/main/spec/app/ics-020-fungible-token-transfer) | [xERC20](https://github.com/rhlsthrm/awesome-xerc20?tab=readme-ov-file), [OFT](https://docs.layerzero.network/contracts/oft) |
+| Interchain accounts  | [ICS27](https://github.com/cosmos/ibc/tree/main/spec/app/ics-027-interchain-accounts) | [create2](https://docs.alchemy.com/docs/create2-an-alternative-to-deriving-contract-addresses)  |
+| Interchain Queries  | [ICS31](https://github.com/cosmos/ibc/tree/main/spec/app/ics-031-crosschain-queries) |  |
 
