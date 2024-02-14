@@ -28,7 +28,7 @@ Copy and paste the following template at the end of this file, and fill in your 
 - [Yes/No] If yes, specify roles/positions needed
 
 #### Project Description:
-Provide a brief description of your project. What problem does it solve? What technologies are you planning to use?
+Provide a brief description of your project. What problem does it solve? What frameworks/standards are you planning to use?
 
 #### How to Reach Us:
 - [Discord/Telegram/Email] - [Contact Information]
