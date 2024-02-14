@@ -9,7 +9,7 @@ The PIT presents you with Phase 1 and the initial set of 3 quests. Each quest wi
 ### Quests Overview 
 1. Create a dApp using universal/custom channels
 2. Contribute to IBC Solidity standards
-3. Help build to Polymer developer tooling 
+3. Help build Polymer developer tooling 
 
 Dive deeper into the quests in the `\quests` directory
 
