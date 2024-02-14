@@ -1,6 +1,6 @@
 Welcome to the **PIT -** Polymer Incentivized Testnet! 
 
-The PIT embodies Polymer’s commitment to innovation, security, and scalability to the interoperability landscape. The Polymer hub brings together for developers, rollup and eigen infrastructure operators to explore, build, and contribute towards the Superchain thesis.
+The PIT embodies Polymer’s commitment to innovation, security, and scalability to the interoperability landscape. The Polymer hub brings together developers, rollup and infrastructure operators to explore, build, and contribute towards the Superchain thesis.
 
 # Phase 1 Guidelines
 
