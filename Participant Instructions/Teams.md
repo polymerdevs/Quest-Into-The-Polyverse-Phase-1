@@ -7,7 +7,7 @@ Welcome to the Team Registry for the PIT! This document serves as a central plac
 To register your team, please follow these steps:
 
 1. **Fork the Repository:** If you haven't already, fork the hackathon's repository to your GitHub account.
-2. **Add Your Team:** Edit the `[Team Name PRs](https://github.com/polymerdevs/PIT-Phase-1/blob/main/Participant%20Instructions/Team%20Registry/Team_Name_PRs.md)` file in your forked repository to include your team's information in the format provided.
+2. **Add Your Team:** Edit the [Team Name PRs](https://github.com/polymerdevs/PIT-Phase-1/blob/main/Participant%20Instructions/Team%20Registry/Team_Name_PRs.md) file in your forked repository to include your team's information in the format provided.
 3. **Submit a Pull Request (PR):** Once you've added your team's information, submit a PR to add your `[Your TEAM NAME].md` file in the [Team Registry](https://github.com/polymerdevs/PIT-Phase-1/tree/main/Participant%20Instructions/Team%20Registry) directory.
 
 ### Team Submission Template
