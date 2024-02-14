@@ -32,6 +32,8 @@ The PIT consists of a predefined [scoring rubric](https://github.com/polymerdevs
 
 To maintain engagement and a competitive spirit among teams and developers, we will implement a leaderboard that tracks the points scored. This will help Polymer facilitate rewards, promoting healthy competition and community engagement, encouraging participants to put their best foot forward.
 
+## Developer Incentives
+
 ### We Value Your Feedback
 At Polymer, we are committed to continuous improvement and innovation, and your feedback plays a crucial role in this process. Whether it's about your experience with the hackathon, our developer tools, or the support you received, we're eager to hear what you think and how we can make things better.
 
