@@ -1,26 +1,57 @@
-# PIT Phase 1 Submission Guidelines
+Welcome to the PIT submission guide. Follow these detailed steps to ensure your project meets all the submission requirements and is ready for evaluation.
 
-## Overview
-These guidelines are designed to ensure that your submission for the Polymer Incentivized Testnet (PIT) Phase 1 is complete, clear, and in alignment with the objectives of the testnet.
+## **Step-by-Step Submission Instructions**
 
-## Submission Contents
+### **Step 1: Finalize Your Project**
 
-### Project Information
-- **Name:** Clearly state your team's name.
-- **Quest:** Specify the quest(s) you are embarking on.
-- **Description:** A brief summary of your project, its purpose, and key functionalities.
-- **Code Repository:** Link to the public repository containing your project's code.
+Ensure your project is complete, including all coding, testing, and final touches. Remember, a polished project makes a strong impression.
 
+### **Step 2: Prepare Your Project Repository**
 
-### Technical Documentation
-- **Installation and Usage Guide:** Step-by-step instructions for setting up and running your project. Please include any necessary commands or scripts.
-- **System Architecture:**  Diagrams or descriptions outlining the architecture of your solution.
-- **Design Rationale:** Explain the key design decisions and how they contribute to the objectives of the quest.
+- Create a new GitHub repository for your project or ensure your existing project repository is organized and up-to-date.
+- Include all source code, assets, data files, and any other materials required to run your project.
 
-### Demonstration and Proof of Interaction
-- **Screenshots/Video:** Provide screenshots or a link to a video demonstration showing key features or steps in using your application.
-- **Evidence:** Documented evidence of your cross chain interaction with Polymer. This can include contract addresses, links to transactions and screenshots of the IBC explorer. 
+### **Step 3: Craft a Comprehensive README**
 
-### How to Submit
-- **Add Issue to Phase 1 Repo:** Make sure to include: your project name, a link to your submission, as well as any relevant wallet addresses used in your project
+Your **`README.md`** file is the first thing evaluators will see, so make it count. It should include:
 
+- **Project Title:** A clear and concise title for your project.
+- **Team Members:** List of team members and their roles/contributions.
+- **Project Overview:** A brief description of your project, including the problem it solves or the value it adds.
+- **Run-book:** Step-by-step guide to test your project, including any dependencies.
+- **Technologies Used:** List of technologies, frameworks, libraries, and tools used in your project.
+- **Challenges Faced:** Briefly discuss any significant challenges you encountered and how you overcame them.
+- **What We Learned:** Highlight key learnings your team took away from this project.
+- **Future Improvements:** Share any plans for future enhancements or iterations of your project.
+- **License:** Specify the license under which your project is released.
+
+### **Step 5: Proof of Testnet Interactions (Must)**
+
+It is mandatory for projects to include documented proof of interactions with a testnet, such as:
+
+- Transaction hashes.
+- Smart contract addresses of your contract (or Port addresses)
+- Screenshots or videos of the transactions.
+
+### **Step 4: Include a Demo Video (Optional)**
+
+While not mandatory, a demo video can significantly enhance your submission by showcasing your project's functionality and features. Keep it concise (3-5 minutes) and focused on what makes your project stand out.
+
+### **Step 6: Submit Your Project**
+
+- Ensure your project repository is public and accessible.
+- Submit your project by creating an issue in the hackathon's GitHub repository with the title "Submission: [Your Project Name]" and include the following details:
+    - Team Name and Members
+    - Project Title
+    - Repository Link
+    - Demo Video Link (if available)
+    - Any additional notes or comments
+
+## **Additional Tips for a Successful Submission**
+
+- **Double-Check:** Before submitting, review your repository to ensure everything is in place and functioning as expected.
+- **Engage with the Community:** Share your project with fellow participants and gather feedback to make last-minute improvements.
+- **Stay Informed:** Keep an eye on hackathon announcements for any last-minute changes or updates to the submission process.
+Note: Projects that can successfully onboard broader community to try out their application will be prioritised in the evaluation process. 
+
+Thank you for participating in the PIT. We look forward to seeing your innovative solutions and wish you the best of luck!
