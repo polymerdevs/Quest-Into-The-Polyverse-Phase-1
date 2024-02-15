@@ -33,7 +33,7 @@ It is mandatory for projects to include documented proof of interactions with a 
 - Smart contract addresses of your contract (or Port addresses)
 - Screenshots or videos of the transactions.
 
-### **Step 5: Include a Demo Video (Optional)**
+### **Step 5: Include a Demo Video (Recommended)**
 
 While not mandatory, a demo video can significantly enhance your submission by showcasing your project's functionality and features. Keep it concise (3-5 minutes) and focused on what makes your project stand out.
 
