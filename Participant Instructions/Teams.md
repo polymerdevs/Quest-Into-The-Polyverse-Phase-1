@@ -20,22 +20,46 @@ Copy and paste the following template at the end of this file, and fill in your 
 #### Project: [Your Project Name/Title]
 
 #### Team Members:
+
 - [Member 1 GitHub Username] - [Role, e.g., Developer, Designer]
 - [Member 2 GitHub Username] - [Role]
 - ...
 
 #### Looking for Members?:
+
 - [Yes/No] If yes, specify roles/positions needed
 
 #### Project Description:
+
 Provide a brief description of your project. What problem does it solve? What frameworks/standards are you planning to use?
 
 #### How to Reach Us:
-- [Discord/Telegram/Email] - [Contact Information]
 
+- [Discord/Telegram/Email] - [Contact Information]
 ```
 
 ## Registered Teams
 
 See the [Team Registry](https://github.com/polymerdevs/PIT-Phase-1/tree/main/Participant%20Instructions/Team%20Registry) directory for a list of teams that have registered for the hackathon. If you're looking to join a team, feel free to reach out to them using their provided contact information.
 
+```markdown
+### Team Name: Team Mushu
+
+#### Project: Polymer Project Template
+
+#### Team Members:
+
+- kenobijon - Developer
+
+#### Looking for Members?:
+
+- Yes
+
+#### Project Description:
+
+Team Mushu is creating template application and tooling for Polymer as well as an associated CLI. The goal the this project is to create a seamless developer experience for starting a project on Polymer.
+
+#### How to Reach Us:
+
+- [Telegram] - kenobijon
+```
