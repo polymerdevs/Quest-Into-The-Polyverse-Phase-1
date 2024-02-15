@@ -1,5 +1,9 @@
-# Contribute to IBC Solidity standards
+# Contribute to implementing the IBC standards in Solidity
 IBC is a well documented and battle-tested protocol with many developers contributing code/standards to improve its developer experience and help other applications build off of their work. The PIT empowers further contributions, there are a few IBC standards Polymer thinks can be used by a wide variety of applications. 
+
+IBC is a complete interop protocol with a well-defined specification, called the the [_**I**nter**C**hain **S**tandards_](https://github.com/cosmos/ibc) or ICS for short. There's a clear separation between the state and transport layers on the one hand (this is what Polymer has contributed to for L2-L2 commmunication) and the application layer.
+
+In Phase 1 of the PIT we focus on the application layer. In Cosmos, where IBC originated, many standards have implementations as Go modules. The challenge you're presented with is to implement some of those for the EVM and Solidity.
 
 Similar implementations already exist in EVM and we leave it to your best judgement to establish a fair analysis between them, propose and build a new standard that will help further the cosmosethereum.
 
