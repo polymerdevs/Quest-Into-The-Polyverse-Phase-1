@@ -24,7 +24,7 @@ Copy and paste the following template at the end of this file, and fill in your 
 - [Member 2 GitHub Username] - [Role]
 - ...
 
-#### Looking for Members?:
+#### Looking for Members? (Don't forget to check out the [Developer Forum](https://forum.polymerlabs.org/t/looking-for-a-group-need-development-help/28)):
 - [Yes/No] If yes, specify roles/positions needed
 
 #### Project Description:
@@ -35,7 +35,9 @@ Provide a brief description of your project. What problem does it solve? What fr
 
 ```
 
+**Note**: You'll be able to update team description during the PIT in case you're not sure what challenge you want to complete or want to add team members along the way.
+
 ## Registered Teams
 
-See the [Team Registry](https://github.com/polymerdevs/PIT-Phase-1/tree/main/Participant%20Instructions/Team%20Registry) directory for a list of teams that have registered for the hackathon. If you're looking to join a team, feel free to reach out to them using their provided contact information.
+See the [Team Registry](https://github.com/polymerdevs/PIT-Phase-1/tree/main/Participant%20Instructions/Team%20Registry) directory for a list of teams that have registered for the PIT. If you're looking to join a team, feel free to reach out to them using their provided contact information.
 
