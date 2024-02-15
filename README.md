@@ -31,7 +31,7 @@ To ensure a smooth and fair evaluation process, all hackathon participants are r
 1. **Project Repository:** Submit your project as a public GitHub repository containing all source code, assets, and necessary documentation.
 2. **Comprehensive README:** Your repository must include a detailed **`README.md`** file covering the project overview, installation and usage instructions, technologies used, and team member contributions.
 3. **Testnet Interactions (Must):** Provide documented proof of testnet interactions, including transaction hashes, smart contract addresses (or Port).
-4. **Demo Video (Optional):** Enhance your submission with a short demo video (3-5 minutes) showcasing your project's key features and functionality.
+4. **Demo Video (Recommended):** Enhance your submission with a short demo video (3-5 minutes) showcasing your project's key features and functionality.
 
 Submissions will be evaluated based on innovation, technical complexity, impact, design, completeness, and their ability to facilitate community engagement. Please refer to the detailed [Submission Format](https://github.com/polymerdevs/PIT-Phase-1/blob/main/Participant%20Instructions/Submission%20Format.md) for comprehensive guidelines.
 
