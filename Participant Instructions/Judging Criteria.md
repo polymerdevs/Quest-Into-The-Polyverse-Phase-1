@@ -12,6 +12,4 @@ Welcome to the PIT Judging Criteria. This guide outlines the key factors that wi
 
 Please note that there might be a significant delay between the submission deadline and the evaluation of projects. Therefore, the leaderboard will remain hidden (in stealth mode) until its official release.
 
-## Questions
 
-If you have any questions about the judging criteria or need further clarification, feel free to reachout to us.
