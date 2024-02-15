@@ -1,5 +1,12 @@
 Welcome to the PIT Judging Criteria. This guide outlines the key factors that will be considered when evaluating submissions. Our goal is to ensure a fair, transparent, and comprehensive assessment of all projects.
 
+### Overview of Judging Criteria
+- **Project complete and open**: Evaluates the project's readiness for community use, openness to contributions, licensing clarity, and future development roadmap.
+- **Code Quality**: Assesses the use of current libs/standards/frameworks, adherence to coding standards, code clarity, maintenance practices, and error handling.
+- **UI**: Judges the intuitiveness, completeness, and guidance provided by the user interface, whether CLI or GUI.
+- **Community value and documentation**: Measures the project's engagement with the community, quality of documentation, and efforts to facilitate contributions.
+- **Wow factor**: Gauges the project's innovation, potential for integration, and contribution to enhancing the developer experience.
+
 ## Scoring Rubric
 
 | Criteria | 10 | 5 | 0 |
