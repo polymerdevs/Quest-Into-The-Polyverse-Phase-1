@@ -35,6 +35,8 @@ Provide a brief description of your project. What problem does it solve? What fr
 
 ```
 
+**Note**: You'll be able to update team description during the PIT in case you're not sure what challenge you want to complete or want to add team members along the way.
+
 ## Registered Teams
 
 See the [Team Registry](https://github.com/polymerdevs/PIT-Phase-1/tree/main/Participant%20Instructions/Team%20Registry) directory for a list of teams that have registered for the hackathon. If you're looking to join a team, feel free to reach out to them using their provided contact information.
