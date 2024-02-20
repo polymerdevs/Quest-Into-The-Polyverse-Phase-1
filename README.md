@@ -6,14 +6,28 @@ The PIT embodies Polymer’s commitment to innovation, security, and scalability
 
 The PIT presents you with Phase 1 and the initial set of 3 quests. Each quest will provide guidance for some exciting use-cases for the Polymer community. However, these quests truly are meant for guidance and are optional, Polymer welcomes innovation! If you have an exciting use-case, propose it in our forum, team up with fellow devs and get building.
 
-### Quests Overview 
-1. Create a cross-chain dApp using using IBC (with custom or universal channels).
-2. Contribute to implementing the IBC standards in Solidity or create your own standard.
-3. Contribute to building Polymer developer tooling ecosystem.
+## Quests Overview 
 
-Dive deeper into each of these in the [Quest](https://github.com/polymerdevs/PIT-Phase-1/tree/main/quests) directory.
+### 1. Create a cross-chain dApp using using IBC (with custom or universal channels).
+One of the great things of IBC is its ability to allow applications to have their own independent communication channels that no other application can use. This enables vastly reduced risk between the various instances of an application on different chains. 
 
-NOTE: Solutions that are effective for broader community engagement will be scored highly.
+TO DO: Sub division and label reference 
+
+### 2. Contribute to implementing the IBC standards in Solidity or create your own standard.
+
+IBC is a well documented and battle-tested protocol with many developers contributing code/standards to improve its developer experience and help other applications build off of their work. The PIT empowers further contributions, there are a few IBC standards Polymer thinks can be used by a wide variety of applications.
+
+IBC is a complete interop protocol with a well-defined specification, called the the InterChain Standards or ICS for short. There's a clear separation between the state and transport layers on the one hand (this is what Polymer has contributed to for L2-L2 commmunication) and the application layer.
+
+TO DO: Label reference 
+
+### 3. Contribute to building Polymer developer tooling ecosystem.
+
+Help build a world class Developer experience, for developer by developers.
+
+As Cosmoethereum is in its early stages, there's a wealth of opportunities to contribute to its developer tooling. Whether it's creating a ready-to-deploy SDK for vIBC smart contracts facilitating new rollups connecting to Polymer, or improving the IBC explorer, your contributions can make a significant difference!
+
+TO DO: Label reference 
 
 ## Participation Instructions 
 
