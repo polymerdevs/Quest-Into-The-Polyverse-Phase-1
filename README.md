@@ -62,7 +62,7 @@ Moreover, teams demonstrating substantial and meaningful development have the op
 
 - Comprehensive support from Polymer to launch their protocol to the market.
 - Incentives to attract and bootstrap early adopters.
-- Exclusive access to Polymer resources and tools.
+- Exclusive access to Polymer resources and network.
 
 ### Additional Reward Attributes
 In recognition of exceptional contributions and achievements, additional rewards will be bestowed upon:
