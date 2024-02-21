@@ -4,7 +4,9 @@ The PIT embodies Polymer’s commitment to innovation, security, and scalability
 
 # Phase 1 Guidelines
 
-The PIT presents you with Phase 1 and the initial set of 3 quests. Each quest will provide guidance for some exciting use-cases for the Polymer community. However, these quests truly are meant for guidance and are optional, Polymer welcomes innovation! If you have an exciting use-case, propose it in our forum, team up with fellow devs and get building.
+The PIT presents you with Phase 1 and the initial set of 3 quests. Each quest will provide guidance for some exciting use-cases for the Polymer community. However, these quests truly are meant for guidance and are optional, Polymer welcomes innovation! 
+
+If you have an exciting use-case, propose it in our forum, team up with fellow devs and propose it over [here](https://github.com/polymerdevs/PIT-Phase-1/issues/16). 
 
 ## Quests Overview 
 
