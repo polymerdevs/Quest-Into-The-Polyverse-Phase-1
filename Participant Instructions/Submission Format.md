@@ -61,6 +61,6 @@ While not mandatory, a demo video can significantly enhance your submission by s
 - **Engage with the Community:** Share your project with fellow participants and gather feedback to make last-minute improvements.
 - **Stay Informed:** Keep an eye on PIT announcements for any last-minute changes or updates to the submission process.
 
-Note: Projects that can successfully onboard broader community to try out their application will be prioritised in the evaluation process.
+Note: Projects that can successfully onboard broader community to try out their application will be prioritized in the evaluation process.
 
 Thank you for participating in the PIT. We look forward to seeing your innovative solutions and wish you the best of luck!
