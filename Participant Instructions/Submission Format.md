@@ -40,11 +40,19 @@ While not mandatory, a demo video can significantly enhance your submission by s
 ### **Step 6: Submit Your Project**
 
 - Ensure your project repository is public and accessible.
-- Submit your project as a comment under the desired issue in the PIT's Phase 1 GitHub repository. with the following template: 
-    - Team Name and Members
+- Submit your project as a comment under the desired issue in the PIT's Phase 1 GitHub repository. with the following template:
+```markdown
+
+# Submission - Team Name
+
+### Team Members
+
+### Project Links 
     - Repository Link
     - Demo Video Link (if available)
+
     - Any additional notes or comments
+```
 
 ## **Additional Tips for a Successful Submission**
 
