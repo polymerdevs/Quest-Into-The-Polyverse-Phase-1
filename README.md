@@ -18,7 +18,7 @@ We will be exploring application development with IBC as a messaging standard.
 
 One of the great things of IBC is its ability to allow developers to build their own bridge by having their independent communication channels that no other application can use. This enables vastly reduced risk between the various instances of an application on different chains.
 
-Some quests help you understand IBC features and how they improve the UX for known use-cases around token bridging and help you imagine the realm of possibilities for future developments. 
+Some quests help you understand IBC features and how they improve the UX for known use-cases (like token bridging) and help you imagine the realm of possibilities for future developments. 
 
 Given this category is broad, we will be diving it further with additional labels as and when required like token bridging label.
 
