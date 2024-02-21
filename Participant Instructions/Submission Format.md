@@ -50,7 +50,7 @@ While not mandatory, a demo video can significantly enhance your submission by s
 
 ### Project description 
 - Add issue or a one-liner of what you have built. 
-- Rate its product readiness (0-very low, 5-very high)
+- Rate its production readiness (0-very low, 5-very high)
 
 ### Project Links
 - Repository Link
