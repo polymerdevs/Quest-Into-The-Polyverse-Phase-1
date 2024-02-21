@@ -85,6 +85,7 @@ In recognition of exceptional contributions and achievements, additional rewards
 
 In future these incentives will not just to reward technical excellence but also our wider community in the following Phases of the PIT.
 
+Note: Reward Attributes for the project will be alloted as is (not divided) to all the developers in a registered team, make sure to register!
 
 ## Resources
 
