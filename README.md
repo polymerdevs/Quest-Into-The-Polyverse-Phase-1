@@ -56,7 +56,16 @@ The PIT consists of a predefined [scoring rubric](https://github.com/polymerdevs
 To maintain engagement and a competitive spirit among teams and developers, we will implement a leaderboard that tracks the points scored. This will help Polymer facilitate rewards, promoting healthy competition and community engagement, encouraging participants to put their best foot forward.
 
 ## Developer Incentives
-PIT offers developers opportunities for engagement and potentially influence the future direction of Polymer's interop solutions. Thus, performance on the leaderboard enables participants to ascend through the ranks, towards potential partnership, gaining exclusive access to Polymer resources and potential developer allocation in the future. 
+PIT offers developers opportunities for engagement and potentially influence the future direction of Polymer's interop solutions. Thus, performance on the leaderboard (percentile based) enables participants to accumulate reward attributes and potential developer allocation in the future. 
+
+At the same time teams who are able to showcase meaningful development get the opporunity to graduate to Polymer's Launch Partner Program - wherein they receive Polymer support to take their protocol to market, incentives to bootstrap early users and gain exclusive access to Polymer resources. 
+
+Additional rewards attributes will be given for:
+- Top 3 teams in the leaderboard
+- Top project in each Quest category
+- Proposing meaningful or fun use-cases
+- Most community contribution
+- Most wow factor
 
 
 ## Resources
