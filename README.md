@@ -48,7 +48,7 @@ To ensure a smooth and fair evaluation process, all PIT participants are require
 4. **Demo Video (Recommended):** Enhance your submission with a short demo video (5-10 minutes) showcasing your project's key features and functionality. Videos will help us priortise projects for evaluation. 
 
 
-Submissions will be evaluated based on innovation, technical complexity, impact, design, completeness, and their ability to facilitate community engagement. Please refer to the detailed [Submission Format](https://github.com/polymerdevs/PIT-Phase-1/blob/main/Participant%20Instructions/Submission%20Format.md) for comprehensive guidelines.
+Please refer to the detailed [Submission Format](https://github.com/polymerdevs/PIT-Phase-1/blob/main/Participant%20Instructions/Submission%20Format.md) for comprehensive guidelines.
 
 ### Judging criteria 
 The PIT consists of a predefined [scoring rubric](https://github.com/polymerdevs/PIT-Phase-1/blob/main/Participant%20Instructions/Judging%20Criteria.md#scoring-rubric) to provide transparency and fairness in evaluating contributions across a spectrum of activities, from dApp development to protocol implementation and beyond. This rubric not only sets clear expectations but also guides participants towards contributing high-quality work that advances the Polymer ecosystem.
