@@ -46,13 +46,13 @@ While not mandatory, a demo video can significantly enhance your submission by s
 # Submission - Team Name
 
 ### Team Members
-    - Member Name & Github
+- Member Name & Github
 
-### Project Links 
-    - Repository Link
-    - Demo Video Link (if available)
+### Project Links
+- Repository Link
+- Demo Video Link (if available)
 
-    - Any additional notes or comments
+- Any additional notes or comments
 ```
 
 ## **Additional Tips for a Successful Submission**
