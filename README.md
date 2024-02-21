@@ -56,16 +56,24 @@ The PIT consists of a predefined [scoring rubric](https://github.com/polymerdevs
 To maintain engagement and a competitive spirit among teams and developers, we will implement a leaderboard that tracks the points scored. This will help Polymer facilitate rewards, promoting healthy competition and community engagement, encouraging participants to put their best foot forward.
 
 ## Developer Incentives
-PIT offers developers opportunities for engagement and potentially influence the future direction of Polymer's interop solutions. Thus, performance on the leaderboard (percentile based) enables participants to accumulate reward attributes and potential developer allocation in the future. 
+PIT offers developers opportunities for engagement and potentially influence the future direction of Polymer's interop solutions. By excelling on the leaderboard, which will be rewarded based on percentile, participants can earn reward attributes and stand a chance to receive potential future developer allocation.
 
-At the same time teams who are able to showcase meaningful development get the opporunity to graduate to Polymer's Launch Partner Program - wherein they receive Polymer support to take their protocol to market, incentives to bootstrap early users and gain exclusive access to Polymer resources. 
+Moreover, teams demonstrating substantial and meaningful development have the opportunity to advance to Polymer’s Launch Partner Program. This program is designed to support the most promising projects in transitioning from concept to market. Selected teams will benefit from:
 
-Additional rewards attributes will be given for:
-- Top 3 teams in the leaderboard
-- Top project in each Quest category
-- Proposing meaningful or fun use-cases
-- Most community contribution
-- Most wow factor
+- Comprehensive support from Polymer to launch their protocol to the market.
+- Incentives to attract and bootstrap early adopters.
+- Exclusive access to Polymer resources and tools.
+
+### Additional Reward Attributes
+In recognition of exceptional contributions and achievements, additional rewards will be bestowed upon:
+
+- The top 3 teams on the leaderboard.
+- The leading project within each Quest category.
+- Contributions that propose meaningful or particularly fun use-cases.
+- Participants who stand out for their community contributions.
+- Projects that exhibit the "Most Wow Factor".
+
+In future these incentives will not just to reward technical excellence but also our wider community in the following Phases of the PIT.
 
 
 ## Resources
