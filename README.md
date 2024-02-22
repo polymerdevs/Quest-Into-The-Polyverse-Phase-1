@@ -2,6 +2,8 @@ Welcome to the **PIT -** Polymer Incentivized Testnet!
 
 The PIT embodies Polymer’s commitment to innovation, security, and scalability to the interoperability landscape. Polymer brings together developers, rollup and infrastructure operators to explore, build, and contribute towards the _Interchain_ thesis.
 
+As an initiative to honor developers instrumental to Ethereum's scalability via Layer-2 infra, cross-chain application development, and advancing IBC in the Cosmos ecosystem, we're offering rewards for past contributions.
+
 ### Polymer HUB
 Polymer Hub is the first Layer 2 natively built for interoperability, connecting Ethereum’s growing rollup ecosystem using Inter-Blockchain Communication protocol. Polymer’s initial focus is to provide the developer community with tools to connect the Superchain and permissionlessly add new OP-stack rollups to the wider Superchain network. The Polymer Hub brings IBC as the centerpiece of the superchain and helps rollups communicate with a common messaging standard. In order to better understand and test out IBC’s capabilities, enter the Polymer Incentivized Testnet.
 
