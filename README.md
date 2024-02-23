@@ -46,7 +46,7 @@ We will be expanding the quest categories as we reveal more partners taking part
 ## Participation Instructions 
 
 ### Start your project 
-- **Decide a use-case:** Whether you're looking to built a use-case already mentioned in our quests or planning to innovate (propose use-case [here](https://github.com/polymerdevs/PIT-Phase-1/issues/16)) - having an idea of what makes you tick can help you and others find the right team members. 
+- **Decide a use-case:** Whether you're looking to built a use-case already mentioned in our [quests](https://github.com/polymerdevs/PIT-Phase-1/issues) or planning to innovate (propose use-case [here](https://github.com/polymerdevs/PIT-Phase-1/issues/16)) - having an idea of what makes you tick can help you and others find the right team members. 
 - **Team Formation:** Its time to find the right fit, comments your team requirements under in [Team registry](https://github.com/polymerdevs/PIT-Phase-1/issues/17) as per the provided template to connect with potential teammates or to list yourself if you are flying solo.
 - **Team Registration:** Once your team is finalized, make sure to edit pervious comment to include details of the team and mark the team as 'Finalized' and notify the product team in discord. This registration ensures you're officially in the running and helps us support you throughout the PIT.
 - **Development Resources:** Jumpstart your project with our comprehensive [developer documentation](https://docs.polymerlabs.org/), especially if you plan to interact with testnet contracts. These resources are designed to guide you through the initial setup and development stages. 
