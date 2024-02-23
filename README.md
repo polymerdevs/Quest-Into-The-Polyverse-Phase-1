@@ -94,8 +94,10 @@ In future these incentives will not just reward technical excellence but also ou
 Note: Reward Attributes will be alloted as is (not divided) to all the developers in a registered team, make sure to register!
 
 ## Key dates 
-- 19th March: Last day to provide us with your project and team details. Feel free to submit here.
-- 22nd March: 
+- **19th March:** Last day to provide us with your project and team details. Feel free to submit here.
+- **22nd March:** Early chance to get into Polymer's Launch Partner Program for teams who can show meaningful development.
+- **26th March:** Promote protocols for broader community engagement and onboard end-users (reserved for application which are near production ready).
+- **5th April:** Temporary building pause for evaluating final submissions. Time to release the leaderboard!
 
 
 ## Resources
