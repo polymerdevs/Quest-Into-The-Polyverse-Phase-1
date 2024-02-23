@@ -96,7 +96,7 @@ Note: Reward Attributes will be alloted as is (not divided) to all the developer
 ## Key dates 
 - **19th March:** Last day to provide us with your project and team details. Submit [here](https://forms.gle/eCG4hEN6R21gc9z89).
 - **22nd March:** Early chance to get into Polymer's Launch Partner Program for teams who can showcase meaningful development.
-- **26th March:** Promote protocols for broader community engagement and onboard end-users (reserved for application which are near production ready).
+- **26th March:** Promote protocols to broader community and help them onboard early users (reserved for dApps with high readiness). 
 - **5th April:** Temporary building pause for evaluating final submissions. Keep eye out for the leaderboard!
 
 
