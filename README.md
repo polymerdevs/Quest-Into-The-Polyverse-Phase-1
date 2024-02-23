@@ -69,6 +69,8 @@ The PIT consists of a predefined [scoring rubric](https://github.com/polymerdevs
 
 To maintain engagement and a competitive spirit among teams and developers, we will implement a leaderboard to track team's performance according to the rubric. This will help Polymer ultimately facilitate rewards, promoting healthy competition and community engagement, encouraging participants to put their best foot forward.
 
+**Submissions will be reviewed on a rolling basis and to help us priortize your project - provide a working demo, engage with community and start onboarding users. Team that can showcase adoption within the community will be prioritzed.** 
+
 ## Developer Incentives
 PIT offers developers opportunities for engagement and potentially influence the future direction of Polymer's interop solutions. By excelling on the leaderboard, which will be rewarded based on percentile, participants can earn reward attributes and stand a chance to receive potential future developer allocation.
 
@@ -90,6 +92,11 @@ In recognition of exceptional contributions and achievements, additional rewards
 In future these incentives will not just reward technical excellence but also our wider community in the following Phases of the PIT.
 
 Note: Reward Attributes will be alloted as is (not divided) to all the developers in a registered team, make sure to register!
+
+## Key dates 
+- 19th March: Last day to provide us with your project and team details. Feel free to submit here.
+- 22nd March: 
+
 
 ## Resources
 
