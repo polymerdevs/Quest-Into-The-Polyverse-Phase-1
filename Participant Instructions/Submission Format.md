@@ -40,7 +40,7 @@ While not mandatory, a demo video can significantly enhance your submission by s
 ### **Step 6: Submit Your Project**
 
 - Ensure your project repository is public and accessible.
-- Submit your project [here](https://github.com/polymerdevs/PIT-Phase-1/issues/18](https://forms.gle/aXMZWcxHG5RV1sbv9)).
+- Submit your project [here](https://docs.google.com/forms/d/e/1FAIpQLSfRLX9lhmDrx4-QdyxOx8d5TtfdJmqhzSbecGaFFZxm_AZMqg/viewform?usp=sf_link).
 
 ## **Additional Tips for a Successful Submission**
 
