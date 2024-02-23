@@ -28,14 +28,14 @@ Some quests help you understand IBC features and how they improve the UX for kno
 Given this category is broad, we will be diving it further with additional labels as and when required like token bridging label.
 
 ### 2. Contribute to implementing the IBC standards in Solidity or create your own standard.
-**Label: IBC Solidity**
+**Label: [IBC Solidity](https://github.com/polymerdevs/PIT-Phase-1/issues?q=is:issue+is:open+label:%22IBC+Solidity%22)**
 
 IBC is a well documented and battle-tested protocol with many developers contributing code/standards to improve its developer experience and help other applications build off of their work. The PIT empowers further contributions, there are a few IBC standards Polymer thinks can be used by a wide variety of applications.
 
 
 
 ### 3. Contribute to building Polymer developer tooling ecosystem.
-**Label: developer tooling**
+**Label: [developer tooling](https://github.com/polymerdevs/PIT-Phase-1/issues?q=is:issue+is:open+label:%22developer+tooling%22)**
 
 Help build a world class Developer experience, for developer by developers.
 
