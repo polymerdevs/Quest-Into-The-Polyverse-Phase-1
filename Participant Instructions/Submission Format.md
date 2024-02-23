@@ -40,24 +40,7 @@ While not mandatory, a demo video can significantly enhance your submission by s
 ### **Step 6: Submit Your Project**
 
 - Ensure your project repository is public and accessible.
-- Submit your project as a comment [here](https://github.com/polymerdevs/PIT-Phase-1/issues/18), with the following template:
-```markdown
-
-# Submission - Team Name
-
-### Team Members
-- Member Name & Github
-
-### Project description 
-- Add issue or a one-liner of what you have built. 
-- Rate its production readiness (0-very low, 5-very high)
-
-### Project Links
-- Repository Link
-- Demo Video Link (if available)
-
-- Any additional notes or comments
-```
+- Submit your project [here](https://github.com/polymerdevs/PIT-Phase-1/issues/18](https://forms.gle/aXMZWcxHG5RV1sbv9).
 
 ## **Additional Tips for a Successful Submission**
 
