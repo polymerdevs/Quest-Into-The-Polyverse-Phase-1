@@ -17,7 +17,7 @@ If you have an exciting use-case, propose it in our forum, team up with fellow d
 All our quests or use-cases are presented as issues under specific labels for better categorization. 
 
 ### 1. Create a cross-chain dApp using using IBC (with custom or universal channels).
-**Label: dApp development**
+**Label: [dApp development](https://github.com/polymerdevs/PIT-Phase-1/issues?q=is:issue+is:open+sort:relevance-desc+label:%22dApp+development%22)**
 
 We will be exploring application development with IBC as a messaging standard.
 
