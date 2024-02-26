@@ -25,7 +25,7 @@ One of the great things of IBC is its ability to allow developers to build their
 
 Some quests help you understand IBC features and how they improve the UX for known use-cases (like token bridging) and help you imagine the realm of possibilities for future developments. 
 
-Given this category is broad, we will be diving it further with additional labels as and when required like token bridging label.
+Given this category is broad, we will be diving it further with additional labels as and when required like [token bridging](https://github.com/polymerdevs/PIT-Phase-1/issues?q=is:issue+is:open+sort:relevance-desc+label:%22token+bridging%22) label.
 
 ### 2. Contribute to implementing the IBC standards in Solidity or create your own standard.
 **Label: [IBC Solidity](https://github.com/polymerdevs/PIT-Phase-1/issues?q=is:issue+is:open+label:%22IBC+Solidity%22)**
