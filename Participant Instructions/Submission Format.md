@@ -41,7 +41,7 @@ While not mandatory, a demo video can significantly enhance your submission by s
 
 - Ensure your project repository is public and accessible.
 - Submit your project [here](https://docs.google.com/forms/d/e/1FAIpQLSfRLX9lhmDrx4-QdyxOx8d5TtfdJmqhzSbecGaFFZxm_AZMqg/viewform?usp=sf_link).
-- Here is a ideal submission example for your reference. 
+- This is an ideal submission example for your reference. 
 
 ## **Additional Tips for a Successful Submission**
 
