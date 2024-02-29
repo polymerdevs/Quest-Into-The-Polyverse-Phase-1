@@ -11,7 +11,7 @@ Polymer Hub is the first Layer 2 natively built for interoperability, connecting
 
 The PIT presents you with Phase 1 and the initial set of 3 quests. Each quest will provide guidance for some exciting use-cases for the Polymer community. However, these quests truly are meant for guidance and are optional, Polymer welcomes innovation! 
 
-If you have an exciting use-case, propose it in our forum, team up with fellow devs and propose it over [here](https://github.com/polymerdevs/PIT-Phase-1/issues/16). 
+If you have an exciting use-case, feel free to propose it [here](https://github.com/polymerdevs/PIT-Phase-1/issues/16) or register yourself and the idea [here](https://forms.gle/eCG4hEN6R21gc9z89) to continue building in stealth. 
 
 ## Quests Overview 
 All our quests or use-cases are presented as [issues](https://github.com/polymerdevs/PIT-Phase-1/issues) under specific labels for better categorization. 
@@ -46,9 +46,14 @@ We will be expanding the quest categories as we reveal more partners taking part
 ## Participation Instructions 
 
 ### Start your project 
-- **Decide a use-case:** Whether you're looking to built a use-case already mentioned in our [quests](https://github.com/polymerdevs/PIT-Phase-1/issues) or planning to innovate (propose use-case [here](https://github.com/polymerdevs/PIT-Phase-1/issues/16)). 
-- **Teams:** In case you are looking for team members to collaborate with, comments your team requirements under in [Team registry](https://github.com/polymerdevs/PIT-Phase-1/issues/17) as per the provided template to connect with potential teammates or to list yourself.
-- **Development Resources:** You are good to start building! Jumpstart your project with our comprehensive [developer documentation](https://docs.polymerlabs.org/), especially if you plan to interact with testnet contracts. These resources are designed to guide you through the initial setup and development stages. 
+
+- **Teams:** In case you are looking for team members to collaborate with, comments your team requirements under in [Teams](https://github.com/polymerdevs/PIT-Phase-1/issues/17) as per the provided template to connect with potential teammates or to list yourself.
+- **Register:** Whether you are an individual or a team, [register](https://forms.gle/eCG4hEN6R21gc9z89) anytime before **19th March**. This will help our team to assist you during the course of PIT and unlock exclusive discord channels.
+
+You are good to start building!
+
+- **Development Resources:** Jumpstart your project with our comprehensive [developer documentation](https://docs.polymerlabs.org/), especially if you plan to interact with testnet contracts. These resources are designed to guide you through the initial setup and development stages.
+- **Developer Lounge:** Join our [discord community](https://discord.gg/ndQCuHDS87) to hangout with fellow developers and connect with the team to make sure you are up and running in the PIT. 
 - **Community and Support:** For any development-related queries, head over to our [developer forum](https://forum.polymerlabs.org/). The Polymer Labs team and the Polymer developer community are there to assist you, ensuring help is always at hand when you need it.
 
 **Note:** Regular updates and check-ins can enhance your PIT experience. Keep an eye on [announcements](https://twitter.com/Polymer_Labs) and utilize the forums for collaboration and support.
@@ -67,37 +72,38 @@ Please refer to the detailed [Submission Format](https://github.com/polymerdevs/
 ### Judging criteria 
 The PIT consists of a predefined [scoring rubric](https://github.com/polymerdevs/PIT-Phase-1/blob/main/Participant%20Instructions/Judging%20Criteria.md#scoring-rubric) to provide transparency and fairness in evaluating contributions across a spectrum of activities, from dApp development to protocol implementation and beyond. This rubric not only sets clear expectations but also guides participants towards contributing high-quality work that advances the Polymer ecosystem.
 
-To maintain engagement and a competitive spirit among teams and developers, we will implement a leaderboard to track team's performance according to the rubric. This will help Polymer ultimately facilitate rewards, promoting healthy competition and community engagement, encouraging participants to put their best foot forward.
+To maintain engagement and a competitive spirit among teams and developers, we will implement a leaderboard to track team's performance according to the points earned in rubric. This will help Polymer ultimately facilitate rewards, promoting healthy competition and community engagement, encouraging participants to put their best foot forward.
 
 **Submissions will be reviewed on a rolling basis and to help us priortize your project - provide a working demo, engage with community and start onboarding users. Team that can showcase adoption within the community will be prioritzed.** 
 
 ## Developer Incentives
-PIT offers developers opportunities for engagement and potentially influence the future direction of Polymer's interop solutions. By excelling on the leaderboard, which will be rewarded based on percentile, participants can earn reward attributes and stand a chance to receive potential future developer allocation.
+PIT offers developers opportunities for engagement and potentially influence the future direction of Polymer's interop solutions. Based on a projects percentile ranking in the leaderboard, project member(s) will be given Reward Attributes and stand a chance to receive potential future developer allocation.
 
-Moreover, teams demonstrating substantial and meaningful development have the opportunity to advance to Polymer’s Launch Partner Program. This program is designed to support the most promising projects in transitioning from concept to market. Selected teams will benefit from:
+Note: In order to promote team work, Reward Attributes will be alloted as is (not divided) to all the developers in a registered team, make sure to register!
+
+Moreover, teams demonstrating substantial and meaningful development have the opportunity to advance to Polymer’s Launch Partner Program. This program is designed to support the most promising projects in transitioning from concept to protocol. Selected teams will benefit from:
 
 - Comprehensive support from Polymer to launch their protocol to the market.
+- Exclusive access to Polymer resources and investor network.
 - Incentives to attract and bootstrap early adopters.
-- Exclusive access to Polymer resources and network.
 
 ### Additional Reward Attributes
 In recognition of exceptional contributions and achievements, additional rewards will be bestowed upon:
 
 - The top 3 teams on the leaderboard.
 - The leading project within each Quest category.
-- Contributions that propose meaningful or particularly fun use-cases.
+- Contributors that propose meaningful use-cases.
 - Participants who stand out for their community contributions.
 - Projects that exhibit the "Most Wow Factor".
 
 In future these incentives will not just reward technical excellence but also our wider community in the following Phases of the PIT.
 
-Note: Reward Attributes will be alloted as is (not divided) to all the developers in a registered team, make sure to register!
 
 ## Key dates 
 - **19th March:** Last day to provide us with your project and team details. Share [here](https://forms.gle/eCG4hEN6R21gc9z89).
 - **22nd March:** Early [submissions](https://docs.google.com/forms/d/e/1FAIpQLSfRLX9lhmDrx4-QdyxOx8d5TtfdJmqhzSbecGaFFZxm_AZMqg/viewform?usp=sf_link) to get into Polymer's Launch Partner Program for teams who can showcase meaningful development.
-- **26th March:** Promote protocols to broader community and help them onboard early users (reserved for dApps with high readiness). 
-- **5th April:** Temporary building pause for evaluating final submissions. Keep eye out for the leaderboard!
+- **26th March:** Promote protocols to broader community and help them onboard early users in the following phases of the testnet and finally mainnet(reserved for dApps with high readiness). 
+- **5th April:** Temporary building pause for evaluating all the submissions. Keep eye out for the final leaderboard!
 
 
 ## Resources
@@ -106,7 +112,7 @@ To support your journey in the Polymer Incentivized Testnet, make use of the fol
 
 - 🏗️ **[Developer Docs:](https://docs.polymerlabs.org/)** Access comprehensive documentation for technical guidance.
 - ❓ **[Developer Forum:](https://forum.polymerlabs.org/)** Join discussions, ask questions, and share insights with fellow developers.
-- 📢 **[Discord Community:](https://discord.gg/qexCh3Ee4E)** Join our discord and connect with other Polymer Pals.
+- 📢 **[Discord Community:](https://discord.gg/ndQCuHDS87)** Join our discord and connect with other Polymer Pals.
 
 Feel free to reach out to our product team in discord under the role Product Team.
 
