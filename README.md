@@ -82,7 +82,7 @@ PIT offers developers opportunities for engagement and potentially influence the
 
 Note: In order to promote team work, Reward Attributes will be alloted as is (not divided) to all the developers in a registered team, make sure to register!
 
-Moreover, teams demonstrating substantial and meaningful development have the opportunity to advance to Polymer’s Launch Partner Program. This program is designed to support the most promising projects in transitioning from concept to protocol. Selected teams will benefit from:
+Moreover, teams demonstrating substantial and meaningful development till **22nd March** have the opportunity to advance to Polymer’s [Launch Partner Program](https://www.polymerlabs.org/blog/unveiling-the-polymer-partnership-program). This program is designed to support the most promising projects in transitioning from concept to protocol. Drop early submissions [here](https://docs.google.com/forms/d/e/1FAIpQLSfRLX9lhmDrx4-QdyxOx8d5TtfdJmqhzSbecGaFFZxm_AZMqg/viewform?usp=sf_link). Selected teams will benefit from:
 
 - Comprehensive support from Polymer to launch their protocol to the market.
 - Exclusive access to Polymer resources, 1:1s with the team and connection with investors.
@@ -96,6 +96,7 @@ In recognition of exceptional contributions and achievements, additional rewards
 - Contributors that propose meaningful use-cases.
 - Participants who stand out for their community contributions.
 - Projects that exhibit the "Most Wow Factor".
+- Participants that discover bugs or code optimisations (rewarded based on its severity). 
 
 In future these incentives will not just reward technical excellence but also our wider community in the following Phases of the PIT. Projects will be further rewarded for the activity they generate!
 
