@@ -49,7 +49,7 @@ We will be expanding the quest categories as we reveal more partners taking part
 
 - **Teams:** In case you are looking for team members to collaborate with, comments your team requirements under in [Teams](https://github.com/polymerdevs/PIT-Phase-1/issues/17) as per the provided template to connect with potential teammates or to list yourself.
 - **Register:** All participants, whether solo or in a group, must [register](https://forms.gle/eCG4hEN6R21gc9z89) by **March 19th**. Registering ensures our team can support you throughout the PIT and grants access to exclusive rewards.
-- **Engage the Community:** Mark your calendars for **March 26th** to introduce your project to early users. We will showcase your work to our extensive community, and projects that most  engage the users will receive additional rewards.
+- **Engage the Community:** Mark your calendars for **March 26th** to introduce your project to early users in Phase-2 of the PIT. We will showcase your work to our extensive community, and projects that most  engage the users will receive additional rewards.
 
 You are good to start building!
 
@@ -98,7 +98,7 @@ In recognition of exceptional contributions and achievements, additional rewards
 - Projects that exhibit the "Most Wow Factor".
 - Participants that discover bugs or code optimisations (rewarded based on its severity). 
 
-In future these incentives will not just reward technical excellence but also our wider community in the following Phases of the PIT. Projects will be further rewarded for the activity they generate!
+In future these incentives will not just reward technical excellence but also our wider community in Phase-2 of the PIT. Projects will be further rewarded for the activity they generate!
 
 
 ## Key dates 
