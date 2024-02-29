@@ -77,6 +77,8 @@ To maintain engagement and a competitive spirit among teams and developers, we w
 
 **Submissions will be reviewed on a rolling basis and to help us priortize your project - provide a working demo, engage with community and start onboarding users. Team that can showcase adoption within the community will be prioritzed.** 
 
+Note: While multiple teams can work on the same quest, the leaderboard will only feature up to two teams per quest. To secure a spot beyond this limit, teams must demonstrate significant innovation beyond the foundational features.
+
 ## Developer Incentives
 PIT offers developers opportunities for engagement and potentially influence the future direction of Polymer's interop solutions. Based on a projects percentile ranking in the leaderboard, project member(s) will be given **Reward Attributes** and stand a chance to receive potential future developer allocation.
 
