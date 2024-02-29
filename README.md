@@ -47,8 +47,9 @@ We will be expanding the quest categories as we reveal more partners taking part
 
 ### Start your project 
 
-- **Teams:** In case you are looking for team members to collaborate with, comments your team requirements under in [Teams](https://github.com/polymerdevs/PIT-Phase-1/issues/17) as per the provided template to connect with potential teammates or to list yourself.
-- **Register:** Whether you are an individual or a team, [register](https://forms.gle/eCG4hEN6R21gc9z89) anytime before **19th March**. This will help our team to assist you during the course of PIT and unlock exclusive discord channels.
+- **Teams:** In case you are looking for team members to collaborate with, comments your team requirements under in [Teams](https://github.com/polymerdevs/PIT-Phase-1/issues/17) as per the provided template to connect with potential teammates or to list yourself.
+- **Register:** All participants, whether solo or in a group, must [register](https://forms.gle/eCG4hEN6R21gc9z89) by **March 19th**. Registering ensures our team can support you throughout the PIT and grants access to exclusive rewards.
+- **Engage the Community:** Mark your calendars for **March 26th** to introduce your project to early users. We will showcase your work to our extensive community, and projects that most  engage the users will receive additional rewards.
 
 You are good to start building!
 
@@ -77,14 +78,14 @@ To maintain engagement and a competitive spirit among teams and developers, we w
 **Submissions will be reviewed on a rolling basis and to help us priortize your project - provide a working demo, engage with community and start onboarding users. Team that can showcase adoption within the community will be prioritzed.** 
 
 ## Developer Incentives
-PIT offers developers opportunities for engagement and potentially influence the future direction of Polymer's interop solutions. Based on a projects percentile ranking in the leaderboard, project member(s) will be given Reward Attributes and stand a chance to receive potential future developer allocation.
+PIT offers developers opportunities for engagement and potentially influence the future direction of Polymer's interop solutions. Based on a projects percentile ranking in the leaderboard, project member(s) will be given **Reward Attributes** and stand a chance to receive potential future developer allocation.
 
 Note: In order to promote team work, Reward Attributes will be alloted as is (not divided) to all the developers in a registered team, make sure to register!
 
 Moreover, teams demonstrating substantial and meaningful development have the opportunity to advance to Polymer’s Launch Partner Program. This program is designed to support the most promising projects in transitioning from concept to protocol. Selected teams will benefit from:
 
 - Comprehensive support from Polymer to launch their protocol to the market.
-- Exclusive access to Polymer resources and investor network.
+- Exclusive access to Polymer resources, 1:1s with the team and connection with investors.
 - Incentives to attract and bootstrap early adopters.
 
 ### Additional Reward Attributes
@@ -96,13 +97,13 @@ In recognition of exceptional contributions and achievements, additional rewards
 - Participants who stand out for their community contributions.
 - Projects that exhibit the "Most Wow Factor".
 
-In future these incentives will not just reward technical excellence but also our wider community in the following Phases of the PIT.
+In future these incentives will not just reward technical excellence but also our wider community in the following Phases of the PIT. Projects will be further rewarded for the activity they generate!
 
 
 ## Key dates 
 - **19th March:** Last day to provide us with your project and team details. Share [here](https://forms.gle/eCG4hEN6R21gc9z89).
 - **22nd March:** Early [submissions](https://docs.google.com/forms/d/e/1FAIpQLSfRLX9lhmDrx4-QdyxOx8d5TtfdJmqhzSbecGaFFZxm_AZMqg/viewform?usp=sf_link) to get into Polymer's Launch Partner Program for teams who can showcase meaningful development.
-- **26th March:** Promote protocols to broader community and help them onboard early users in the following phases of the testnet and finally mainnet(reserved for dApps with high readiness). 
+- **26th March:** Promote projects to broader community and help onboard early users in testnet and finally launch on mainnet (reserved for dApps with high readiness). 
 - **5th April:** Temporary building pause for evaluating all the submissions. Keep eye out for the final leaderboard!
 
 
