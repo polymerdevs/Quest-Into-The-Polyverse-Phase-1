@@ -107,7 +107,7 @@ In future these incentives will not just reward technical excellence but also ou
 - **19th March:** Last day to provide us with your project and team details. Share [here](https://forms.gle/eCG4hEN6R21gc9z89).
 - **22nd March:** Early [submissions](https://docs.google.com/forms/d/e/1FAIpQLSfRLX9lhmDrx4-QdyxOx8d5TtfdJmqhzSbecGaFFZxm_AZMqg/viewform?usp=sf_link) to get into Polymer's Launch Partner Program for teams who can showcase meaningful development.
 - **26th March:** Promote projects to broader community and help onboard early users in testnet and finally launch on mainnet (reserved for dApps with high readiness). 
-- **5th April:** Temporary building pause for evaluating all the submissions. Keep eye out for the final leaderboard!
+- **5th April:** Temporary building pause for evaluating all the [submissions](https://docs.google.com/forms/d/e/1FAIpQLSfRLX9lhmDrx4-QdyxOx8d5TtfdJmqhzSbecGaFFZxm_AZMqg/viewform?usp=sf_link) made till date. Keep eye out for the final leaderboard!
 
 
 ## Resources
