@@ -5,7 +5,7 @@ The Polyverse embodies Polymer’s commitment to innovation, security, and scala
 As an initiative to honor developers instrumental to Ethereum's scalability via Layer-2 infra, cross-chain application development, and advancing IBC in the Cosmos ecosystem, we're offering rewards for their past contributions.
 
 ### Polymer HUB
-Polymer Hub is the first Layer 2 natively built for interoperability, connecting Ethereum’s growing rollup ecosystem using Inter-Blockchain Communication protocol. Polymer’s initial focus is to provide the developer community with tools to connect the Superchain and permissionlessly add new OP-stack rollups to the wider Superchain network. The Polymer Hub brings IBC as the centerpiece of the superchain and helps rollups communicate with a common messaging standard. In order to better understand and test out IBC’s capabilities, welcome PIT Phase-1. 
+Polymer Hub is the first Layer 2 natively built for interoperability, connecting Ethereum’s growing rollup ecosystem using Inter-Blockchain Communication protocol. Polymer’s initial focus is to provide the developer community with tools to connect the Superchain and permissionlessly add new OP-stack rollups to the wider Superchain network. The Polymer Hub brings IBC as the centerpiece of the superchain and helps rollups communicate with a common messaging standard. In order to better understand and test out IBC’s capabilities, welcome Polyverse Phase-1. 
 
 # Phase 1 Guidelines
 
@@ -30,7 +30,7 @@ Given this category is broad, we will be diving it further with additional label
 ### 2. Contribute to implementing the IBC standards in Solidity or create your own standard.
 **Label: [IBC Solidity](https://github.com/polymerdevs/PIT-Phase-1/issues?q=is:issue+is:open+label:%22IBC+Solidity%22)**
 
-IBC is a well documented and battle-tested protocol with many developers contributing code/standards to improve its developer experience and help other applications build off of their work. The PIT empowers further contributions, there are a few IBC standards Polymer thinks can be used by a wide variety of applications.
+IBC is a well documented and battle-tested protocol with many developers contributing code/standards to improve its developer experience and help other applications build off of their work. The Polyverse empowers further contributions, there are a few IBC standards Polymer thinks can be used by a wide variety of applications.
 
 
 
@@ -48,19 +48,19 @@ We will be expanding the quest categories as we reveal more partners taking part
 ### Start your project 
 
 - **Teams:** In case you are looking for team members to collaborate with, comments your team requirements under in [Teams](https://github.com/polymerdevs/PIT-Phase-1/issues/17) as per the provided template to connect with potential teammates or to list yourself.
-- **Register:** All participants, whether solo or in a group, must [register](https://forms.gle/eCG4hEN6R21gc9z89) by **March 19th**. Registering ensures our team can support you throughout the PIT and grants access to exclusive rewards.
-- **Engage the Community:** Mark your calendars for **March 26th** to introduce your project to early users in Phase-2 of the PIT. We will showcase your work to our extensive community, and projects that most  engage the users will receive additional rewards.
+- **Register:** All participants, whether solo or in a group, must [register](https://forms.gle/eCG4hEN6R21gc9z89) by **March 19th**. Registering ensures our team can support you throughout the Polyverse and grants access to exclusive rewards.
+- **Engage the Community:** Mark your calendars for **March 26th** to introduce your project to early users in Phase-2 of the Polyverse. We will showcase your work to our extensive community, and projects that most  engage the users will receive additional rewards.
 
 You are good to start building!
 
 - **Development Resources:** Jumpstart your project with our comprehensive [developer documentation](https://docs.polymerlabs.org/), especially if you plan to interact with testnet contracts. These resources are designed to guide you through the initial setup and development stages.
-- **Developer Lounge:** Join our [discord community](https://discord.gg/ndQCuHDS87) to hangout with fellow developers and connect with the team to make sure you are up and running in the PIT. 
+- **Developer Lounge:** Join our [discord community](https://discord.gg/ndQCuHDS87) to hangout with fellow developers and connect with the team to make sure you are up and running in the Polyverse. 
 - **Community and Support:** For any development-related queries, head over to our [developer forum](https://forum.polymerlabs.org/). The Polymer Labs team and the Polymer developer community are there to assist you, ensuring help is always at hand when you need it.
 
-**Note:** Regular updates and check-ins can enhance your PIT experience. Keep an eye on [announcements](https://twitter.com/Polymer_Labs) and utilize the forums for collaboration and support.
+**Note:** Regular updates and check-ins can enhance your Polyverse experience. Keep an eye on [announcements](https://twitter.com/Polymer_Labs) and utilize the forums for collaboration and support.
 
 ### Submission format 
-To ensure a smooth and fair evaluation process, all PIT participants are required to adhere to the following submission criteria:
+To ensure a smooth and fair evaluation process, all Polyverse participants are required to adhere to the following submission criteria:
 
 1. **Project Repository:** Submit your project as a public GitHub repository containing all source code, assets, and necessary documentation.
 2. **Comprehensive README:** Your repository must include a detailed **`README.md`** file covering the project overview, installation and usage instructions, technologies used, and team member contributions.
@@ -71,7 +71,7 @@ To ensure a smooth and fair evaluation process, all PIT participants are require
 Please refer to the detailed [Submission Format](https://github.com/polymerdevs/PIT-Phase-1/blob/main/Participant%20Instructions/Submission%20Format.md) for comprehensive guidelines before you submit your project [here](https://docs.google.com/forms/d/e/1FAIpQLSfRLX9lhmDrx4-QdyxOx8d5TtfdJmqhzSbecGaFFZxm_AZMqg/viewform?usp=sf_link). 
 
 ### Judging criteria 
-The PIT consists of a predefined [scoring rubric](https://github.com/polymerdevs/PIT-Phase-1/blob/main/Participant%20Instructions/Judging%20Criteria.md#scoring-rubric) to provide transparency and fairness in evaluating contributions across a spectrum of activities, from dApp development to protocol implementation and beyond. This rubric not only sets clear expectations but also guides participants towards contributing high-quality work that advances the Polymer ecosystem.
+The Polyverse consists of a predefined [scoring rubric](https://github.com/polymerdevs/PIT-Phase-1/blob/main/Participant%20Instructions/Judging%20Criteria.md#scoring-rubric) to provide transparency and fairness in evaluating contributions across a spectrum of activities, from dApp development to protocol implementation and beyond. This rubric not only sets clear expectations but also guides participants towards contributing high-quality work that advances the Polymer ecosystem.
 
 To maintain engagement and a competitive spirit among teams and developers, we will implement a leaderboard to track team's performance according to the points earned in rubric. This will help Polymer ultimately facilitate rewards, promoting healthy competition and community engagement, encouraging participants to put their best foot forward.
 
@@ -80,7 +80,7 @@ To maintain engagement and a competitive spirit among teams and developers, we w
 Note: While multiple teams can work on the same quest, the leaderboard will only feature up to two teams per quest. To secure a spot beyond this limit, teams must demonstrate significant innovation beyond the foundational features.
 
 ## Developer Incentives
-PIT offers developers opportunities for engagement and potentially influence the future direction of Polymer's interop solutions. Based on a projects percentile ranking in the leaderboard, project member(s) will be given **Reward Attributes** and stand a chance to receive potential future developer allocation.
+The Polyverse offers developers opportunities for engagement and potentially influence the future direction of Polymer's interop solutions. Based on a projects percentile ranking in the leaderboard, project member(s) will be given **Reward Attributes** and stand a chance to receive potential future developer allocation.
 
 Note: In order to promote team work, Reward Attributes will be alloted as is (not divided) to all the developers in a registered team, make sure to register!
 
@@ -100,7 +100,7 @@ In recognition of exceptional contributions and achievements, additional rewards
 - Projects that exhibit the "Most Wow Factor".
 - Participants that discover bugs or code optimisations (rewarded based on its severity). 
 
-In future these incentives will not just reward technical excellence but also our wider community in Phase-2 of the PIT. Projects will be further rewarded for the activity they generate!
+In future these incentives will not just reward technical excellence but also our wider community in Phase-2 of the Polyverse. Projects will be further rewarded for the activity they generate!
 
 
 ## Key dates 
