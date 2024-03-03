@@ -1,4 +1,4 @@
-Welcome to the PIT submission guide. Follow these detailed steps to ensure your project meets all the submission requirements and is ready for evaluation.
+Welcome to the Polyverse submission guide. Follow these detailed steps to ensure your project meets all the submission requirements and is ready for evaluation.
 
 ## **Step-by-Step Submission Instructions**
 
@@ -47,8 +47,8 @@ While not mandatory, a demo video can significantly enhance your submission by s
 
 - **Double-Check:** Before submitting, review your repository to ensure everything is in place and functioning as expected.
 - **Engage with the Community:** Share your project with fellow participants and gather feedback to make last-minute improvements.
-- **Stay Informed:** Keep an eye on PIT announcements for any last-minute changes or updates to the submission process.
+- **Stay Informed:** Keep an eye on Polyverse announcements for any last-minute changes or updates to the submission process.
 
 Note: Projects that can successfully onboard broader community to try out their application will be prioritized in the evaluation process.
 
-Thank you for participating in the PIT. We look forward to seeing your innovative solutions and wish you the best of luck!
+Thank you for participating in the Polyverse. We look forward to seeing your innovative solutions and wish you the best of luck!
