@@ -1,6 +1,6 @@
-Welcome to the **PIT -** Polymer Incentivized Testnet! 
+Quest into the **Polyverse**, Polymer's Incentivized Testnet! 
 
-The PIT embodies Polymer’s commitment to innovation, security, and scalability to the interoperability landscape. Polymer brings together developers, rollup and infrastructure operators to explore, build, and contribute towards the _Interchain_ thesis.
+The Polyverse embodies Polymer’s commitment to innovation, security, and scalability to the interoperability landscape. Polymer brings together developers, rollup and infrastructure operators to explore, build, and contribute towards the _Interchain_ thesis.
 
 As an initiative to honor developers instrumental to Ethereum's scalability via Layer-2 infra, cross-chain application development, and advancing IBC in the Cosmos ecosystem, we're offering rewards for their past contributions.
 
@@ -9,7 +9,7 @@ Polymer Hub is the first Layer 2 natively built for interoperability, connecting
 
 # Phase 1 Guidelines
 
-The PIT presents you with Phase 1 and the initial set of 3 quests. Each quest will provide guidance for some exciting use-cases for the Polymer community. However, these quests truly are meant for guidance and are optional, Polymer welcomes innovation! 
+The Polyverse presents you with Phase 1 and the initial set of 3 quests. Each quest will provide guidance for some exciting use-cases for the Polymer community. However, these quests truly are meant for guidance and are optional, Polymer welcomes innovation! 
 
 If you have an exciting use-case, feel free to propose it [here](https://github.com/polymerdevs/PIT-Phase-1/issues/16) or register yourself and the idea [here](https://forms.gle/eCG4hEN6R21gc9z89) to continue building in stealth. 
 
