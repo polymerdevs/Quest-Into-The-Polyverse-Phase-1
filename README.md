@@ -5,7 +5,7 @@ The Polyverse embodies Polymer’s commitment to innovation, security, and scala
 As an initiative to honor developers instrumental to Ethereum's scalability via Layer-2 infra, cross-chain application development, and advancing IBC in the Cosmos ecosystem, we're offering rewards for their past contributions.
 
 ### Polymer HUB
-Polymer Hub is the first Layer-2 natively built for interoperability, connecting Ethereum’s growing rollup ecosystem using Inter-Blockchain Communication protocol. Polymer’s initial focus is to provide the developer community with tools to connect the Superchain and permissionlessly add new OP-stack rollups to the wider Superchain network. The Polymer Hub brings IBC as the centerpiece of the superchain and helps rollups communicate with a common messaging standard. In order to better understand and test out IBC’s capabilities, welcome Polyverse Phase-1. 
+Polymer Hub is the first Layer 2 natively built for interoperability, connecting Ethereum’s growing rollup ecosystem using Inter-Blockchain Communication protocol. Polymer’s initial focus is to provide the developer community with tools to connect the Superchain and permissionlessly add new OP stack rollups to the wider Superchain network. The Polymer Hub brings IBC as the centerpiece of the superchain and helps rollups communicate with a common messaging standard. In order to better understand and test out IBC’s capabilities, welcome Polyverse Phase 1. 
 
 # Phase 1 Guidelines
 
