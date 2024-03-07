@@ -9,21 +9,21 @@ Polymer Hub is the first Layer 2 natively built for interoperability, connecting
 
 # Phase 1 Guidelines
 
-The Polyverse presents you with Phase 1 and the initial set of 3 quests. Each quest will provide guidance for some exciting use-cases for the Polymer community. However, these quests truly are meant for guidance and are optional, Polymer welcomes innovation! 
+The Polyverse presents you with Phase 1 and the initial set of 3 quests. Each quest will provide guidance for some exciting use cases for the Polymer community. However, these quests truly are meant for guidance and are optional, Polymer welcomes innovation! 
 
-If you have an exciting use-case, feel free to propose it [here](https://github.com/polymerdevs/PIT-Phase-1/issues/16) or register yourself and the idea [here](https://forms.gle/eCG4hEN6R21gc9z89) to continue building in stealth. 
+If you have an exciting use case, feel free to propose it [here](https://github.com/polymerdevs/PIT-Phase-1/issues/16) or register yourself and the idea [here](https://forms.gle/eCG4hEN6R21gc9z89) to continue building in stealth. 
 
 ## Quests Overview 
-All our quests or use-cases are presented as [issues](https://github.com/polymerdevs/PIT-Phase-1/issues) under specific labels for better categorization. 
+All our quests or use cases are presented as [issues](https://github.com/polymerdevs/PIT-Phase-1/issues) under specific labels for better categorization. 
 
-### 1. Create a cross-chain dApp using using IBC (with custom or universal channels).
+### 1. Create a cross-chain dApp using IBC (with custom or universal channels).
 **Label: [dApp development](https://github.com/polymerdevs/PIT-Phase-1/issues?q=is:issue+is:open+sort:relevance-desc+label:%22dApp+development%22)**
 
 We will be exploring application development with IBC as a messaging standard.
 
 One of the great things of IBC is its ability to allow developers to build their own bridge by having their independent communication channels that no other application can use. This enables vastly reduced risk between the various instances of an application on different chains.
 
-Some quests help you understand IBC features and how they improve the UX for known use-cases (like token bridging) and help you imagine the realm of possibilities for future developments. 
+Some quests help you understand IBC features and how they improve the UX for known use cases (like token bridging) and help you imagine the realm of possibilities for future developments. 
 
 Given this category is broad, we will be diving it further with additional labels as and when required like [token bridging](https://github.com/polymerdevs/PIT-Phase-1/issues?q=is:issue+is:open+sort:relevance-desc+label:%22token+bridging%22) label.
 
@@ -65,7 +65,7 @@ To ensure a smooth and fair evaluation process, all Polyverse participants are r
 1. **Project Repository:** Submit your project as a public GitHub repository containing all source code, assets, and necessary documentation.
 2. **Comprehensive README:** Your repository must include a detailed **`README.md`** file covering the project overview, installation and usage instructions, technologies used, and team member contributions.
 3. **Testnet Interactions (Must):** Provide documented proof of testnet interactions, including transaction hashes, smart contract addresses (or Port).
-4. **Demo Video (Recommended):** Enhance your submission with a short demo video (5-10 minutes) showcasing your project's key features and functionality. Videos will help us priortise projects for evaluation. 
+4. **Demo Video (Recommended):** Enhance your submission with a short demo video (5-10 minutes) showcasing your project's key features and functionality. Videos will help us prioritise projects for evaluation. 
 
 
 Please refer to the detailed [Submission Format](https://github.com/polymerdevs/PIT-Phase-1/blob/main/Participant%20Instructions/Submission%20Format.md) for comprehensive guidelines before you submit your project [here](https://docs.google.com/forms/d/e/1FAIpQLSfRLX9lhmDrx4-QdyxOx8d5TtfdJmqhzSbecGaFFZxm_AZMqg/viewform?usp=sf_link). 
@@ -75,14 +75,14 @@ The Polyverse consists of a predefined [scoring rubric](https://github.com/polym
 
 To maintain engagement and a competitive spirit among teams and developers, we will implement a leaderboard to track team's performance according to the points earned in rubric. This will help Polymer ultimately facilitate rewards, promoting healthy competition and community engagement, encouraging participants to put their best foot forward.
 
-**Submissions will be reviewed on a rolling basis and to help us priortize your project - provide a working demo, engage with community and start onboarding users. Team that can showcase adoption within the community will be prioritzed.** 
+**Submissions will be reviewed on a rolling basis and to help us prioritize your project - provide a working demo, engage with community and start onboarding users. Teams that can showcase adoption within the community will be prioritized.** 
 
 Note: While multiple teams can work on the same quest, the leaderboard will only feature up to two teams per quest. To secure a spot beyond this limit, teams must demonstrate significant innovation beyond the foundational features.
 
 ## Developer Incentives
 The Polyverse offers developers opportunities for engagement and potentially influence the future direction of Polymer's interop solutions. Based on a projects percentile ranking in the leaderboard, project member(s) will be given **Reward Attributes** and stand a chance to receive potential future developer allocation.
 
-Note: In order to promote team work, Reward Attributes will be alloted as is (not divided) to all the developers in a registered team, make sure to register!
+Note: In order to promote team work, Reward Attributes will be allocated as is (not divided) to all the developers in a registered team, make sure to register!
 
 Moreover, teams demonstrating substantial and meaningful development till **22nd March** have the opportunity to advance to Polymer’s [Launch Partner Program](https://www.polymerlabs.org/blog/unveiling-the-polymer-partnership-program). This program is designed to support the most promising projects in transitioning from concept to protocol. Drop early submissions [here](https://docs.google.com/forms/d/e/1FAIpQLSfRLX9lhmDrx4-QdyxOx8d5TtfdJmqhzSbecGaFFZxm_AZMqg/viewform?usp=sf_link). Selected teams will benefit from:
 
@@ -95,12 +95,12 @@ In recognition of exceptional contributions and achievements, additional rewards
 
 - The top 3 teams on the leaderboard.
 - The leading project within each Quest category.
-- Contributors that propose meaningful use-cases.
+- Contributors that propose meaningful use cases.
 - Participants who stand out for their community contributions.
 - Projects that exhibit the "Most Wow Factor".
-- Participants that discover bugs or code optimisations (rewarded based on its severity). 
+- Participants that discover bugs or code optimisations (rewarded based on it's severity). 
 
-In future these incentives will not just reward technical excellence but also our wider community in Phase-2 of the Polyverse. Projects will be further rewarded for the activity they generate!
+In the future, these incentives will not just reward technical excellence but also our wider community in Phase-2 of the Polyverse. Projects will be further rewarded for the activity they generate!
 
 
 ## Key dates 
