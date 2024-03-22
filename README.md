@@ -104,8 +104,8 @@ In the future, these incentives will not just reward technical excellence but al
 
 
 ## Key dates 
-- EXTENDED TO 29th March [was 22nd March]: Last day to provide us with your project and team details. Share [here](https://docs.google.com/forms/d/e/1FAIpQLSfRLX9lhmDrx4-QdyxOx8d5TtfdJmqhzSbecGaFFZxm_AZMqg/viewform).
-- EXTENDED TO 1st April [was 26th March]: PHASE 2 - Promote projects to broader community and help onboard early users in testnet and finally launch on mainnet (reserved for dApps with high readiness). 
+- EXTENDED TO **29th March** [was 22nd March]: Last day to provide us with your project and team details. Share [here](https://docs.google.com/forms/d/e/1FAIpQLSfRLX9lhmDrx4-QdyxOx8d5TtfdJmqhzSbecGaFFZxm_AZMqg/viewform).
+- EXTENDED TO **1st April** [was 26th March]: PHASE 2 - Promote projects to broader community and help onboard early users in testnet and finally launch on mainnet (reserved for dApps with high readiness). 
 - 5th April: Temporary building pause for evaluating all the [submissions](https://docs.google.com/forms/d/e/1FAIpQLSfRLX9lhmDrx4-QdyxOx8d5TtfdJmqhzSbecGaFFZxm_AZMqg/viewform?usp=sf_link) made till date. Keep eye out for the final leaderboard!
 
 
