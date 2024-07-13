@@ -1,4 +1,4 @@
-Quest into the **Polyverse**, Polymer's Incentivized Testnet! 
+Quest into the **Polyverse**, Polymer's Testnet! 
 
 The Polyverse embodies Polymer’s commitment to innovation, security, and scalability to the interoperability landscape. Polymer brings together developers, rollup and infrastructure operators to explore, build, and contribute towards the _Interchain_ thesis.
 
@@ -111,7 +111,7 @@ In the future, these incentives will not just reward technical excellence but al
 
 ## Resources
 
-To support your journey in the Polymer Incentivized Testnet, make use of the following resources:
+To support your journey in the Polymer Testnet, make use of the following resources:
 
 - 🏗️ **[Developer Docs:](https://docs.polymerlabs.org/)** Access comprehensive documentation for technical guidance.
 - ❓ **[Developer Forum:](https://forum.polymerlabs.org/)** Join discussions, ask questions, and share insights with fellow developers.
@@ -121,4 +121,4 @@ To support your journey in the Polymer Incentivized Testnet, make use of the fol
 Feel free to reach out to our product team in discord under the role Product Team.
 
 ### We Value Your Feedback
-At Polymer, we are committed to continuous improvement and innovation, and your feedback plays a crucial role in this process. Whether it's about your experience with our incentivized testnet, our developer tools, or the support you received, we're eager to hear what you think and how we can make things better.
+At Polymer, we are committed to continuous improvement and innovation, and your feedback plays a crucial role in this process. Whether it's about your experience with our testnet, our developer tools, or the support you received, we're eager to hear what you think and how we can make things better.
