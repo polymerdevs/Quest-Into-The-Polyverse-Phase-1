@@ -116,7 +116,7 @@ To support your journey in the Polymer Testnet, make use of the following resour
 - 🏗️ **[Developer Docs:](https://docs.polymerlabs.org/)** Access comprehensive documentation for technical guidance.
 - ❓ **[Developer Forum:](https://forum.polymerlabs.org/)** Join discussions, ask questions, and share insights with fellow developers.
 - 🌐 **[IBC Explorer:](https://sepolia.polymer.zone/)** Navigate Polymer Testnet transactions and gain insights into the networks. 
-- 📢 **[Discord Community:](https://discord.gg/ndQCuHDS87)** Join our discord and connect with other Polymer Pals.
+- 📢 **[Discord Community:](https://discord.com/invite/hvMQp4qcM6)** Join our discord and connect with other Polymer Pals.
 
 Feel free to reach out to our product team in discord under the role Product Team.
 
